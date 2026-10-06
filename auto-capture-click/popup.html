@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Auto Capture & Click</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: #0f0f13;
+      color: #e2e8f0;
+      width: 300px;
+      min-height: 300px;
+      overflow: hidden;
+    }
+
+    .header {
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+      padding: 20px;
+      text-align: center;
+      border-bottom: 1px solid rgba(99,102,241,.3);
+      position: relative; overflow: hidden;
+    }
+    .header::before {
+      content: ''; position: absolute; top: -50%; left: -50%;
+      width: 200%; height: 200%;
+      background: radial-gradient(circle, rgba(99,102,241,.08) 0%, transparent 70%);
+      animation: pulse 3s ease-in-out infinite;
+    }
+    @keyframes pulse { 0%,100%{transform:scale(1);opacity:.5} 50%{transform:scale(1.1);opacity:1} }
+
+    .header-icon { font-size: 32px; margin-bottom: 8px; position: relative; z-index: 1; }
+    .header h1   { font-size: 15px; font-weight: 700; color: #fff; letter-spacing: .5px; position: relative; z-index: 1; }
+    .header p    { font-size: 11px; color: rgba(255,255,255,.5); margin-top: 4px; position: relative; z-index: 1; }
+
+    .body { padding: 16px; display: flex; flex-direction: column; gap: 14px; }
+
+    .config-row {
+      display: flex; align-items: center; justify-content: space-between; gap: 8px;
+    }
+    .config-row label { font-size: 12px; color: #94a3b8; font-weight: 500; }
+    .config-row input[type="number"] {
+      width: 80px; padding: 6px 10px;
+      background: #1e1e2a; border: 1px solid rgba(99,102,241,.3);
+      border-radius: 8px; color: #e2e8f0; font-size: 13px;
+      font-family: 'Inter', sans-serif; text-align: center;
+      transition: border-color .2s; outline: none;
+    }
+    .config-row input[type="number"]:focus { border-color: #6366f1; }
+
+    .status-box {
+      background: #1a1a26; border: 1px solid rgba(99,102,241,.15);
+      border-radius: 10px; padding: 12px 14px;
+      min-height: 64px; display: flex; flex-direction: column; gap: 6px;
+    }
+    .status-label { font-size: 10px; text-transform: uppercase; letter-spacing: 1px; color: #4b5563; font-weight: 600; }
+    .status-text  { font-size: 13px; color: #94a3b8; line-height: 1.4; }
+    .status-text.running { color: #34d399; }
+    .status-text.error   { color: #f87171; }
+    .status-text.done    { color: #60a5fa; }
+
+    .counter { display: flex; align-items: center; gap: 6px; margin-top: 2px; }
+    .counter-badge {
+      background: rgba(99,102,241,.2); border: 1px solid rgba(99,102,241,.4);
+      color: #818cf8; font-size: 11px; font-weight: 600;
+      padding: 2px 8px; border-radius: 20px;
+    }
+    .dot { width: 7px; height: 7px; border-radius: 50%; background: #4b5563; flex-shrink: 0; }
+    .dot.active { background: #34d399; animation: blink 1s ease-in-out infinite; }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.3} }
+
+    .btn-start {
+      width: 100%; padding: 12px;
+      background: linear-gradient(135deg, #6366f1, #8b5cf6);
+      border: none; border-radius: 10px;
+      color: #fff; font-size: 14px; font-weight: 600;
+      font-family: 'Inter', sans-serif; cursor: pointer;
+      transition: all .2s; letter-spacing: .3px;
+      position: relative; overflow: hidden;
+    }
+    .btn-start::after {
+      content: ''; position: absolute; top: 0; left: -100%;
+      width: 100%; height: 100%;
+      background: linear-gradient(90deg, transparent, rgba(255,255,255,.1), transparent);
+      transition: left .4s;
+    }
+    .btn-start:hover::after { left: 100%; }
+    .btn-start:hover { transform: translateY(-1px); box-shadow: 0 6px 20px rgba(99,102,241,.4); }
+    .btn-start:active { transform: translateY(0); }
+    .btn-start.running { background: linear-gradient(135deg, #ef4444, #dc2626); }
+    .btn-start.running:hover { box-shadow: 0 6px 20px rgba(239,68,68,.4); }
+
+    .hint { font-size: 10px; color: #4b5563; text-align: center; line-height: 1.5; }
+    .hint span { color: #6366f1; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <div class="header-icon">📸</div>
+    <h1>Auto Capture & Click</h1>
+    <p>Tự động chụp ảnh &amp; chuyển trang</p>
+  </div>
+
+  <div class="body">
+    <div class="config-row">
+      <label>⏱ Delay chờ (giây):</label>
+      <input type="number" id="delayInput" value="2" min="0.5" max="30" step="0.5" />
+    </div>
+
+    <div class="status-box">
+      <div class="status-label">Trạng thái</div>
+      <div style="display:flex; align-items:center; gap:8px;">
+        <div class="dot" id="statusDot"></div>
+        <div class="status-text" id="statusText">Sẵn sàng. Nhấn Start để bắt đầu.</div>
+      </div>
+      <div class="counter" id="counterRow" style="display:none;">
+        <span style="font-size:11px;color:#64748b;">Đã chụp:</span>
+        <span class="counter-badge" id="captureCount">0</span>
+      </div>
+    </div>
+
+    <button class="btn-start" id="mainBtn">▶ Bắt đầu</button>
+
+    <div class="hint">
+      Ảnh lưu vào <span>Downloads/captures/</span> của trình duyệt.<br>
+      Tên ảnh theo nội dung trang (vd: <span>3_10.png</span>)
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
