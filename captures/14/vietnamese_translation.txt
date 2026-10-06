@@ -1,0 +1,90 @@
+=== [Hình ảnh: 1_5.png] ===
+Đề xuất động lực tăng trưởng Datacom
+
+# Giải pháp tận dụng dữ liệu dành cho "Michi-no-Eki" (Trạm dừng chân ven đường)
+
+Tận dụng bí quyết phân tích tiên tiến được tích lũy trong ngành bán lẻ và phân phối,
+nhằm kích hoạt cộng đồng địa phương và kiến tạo nền tảng doanh thu mới.
+
+=== [Hình ảnh: 2_5.png] ===
+Bối cảnh: "Michi-no-Eki" là kho tàng dữ liệu
+
+Tổng số Michi-no-Eki trên toàn quốc (tính đến tháng 12 năm 2025)
+1.231 địa điểm
+
+Số lượng có kèm cửa hàng
+1.168 địa điểm (95%)
+
+■ Thế mạnh của Datacom phát huy hiệu quả trực tiếp
+Các cửa hàng nông sản trực tiếp, cửa hàng lưu niệm, nhà hàng, v.v.,
+rất phù hợp với bí quyết phân tích POS, tồn kho và hàng hủy của chúng tôi.
+
+■ Tận dụng tài sản dữ liệu tổng hợp
+Thời tiết, lưu lượng người, sự kiện du lịch, EC chính thức "Michi-no-Eki Marche", v.v.,
+là nơi tập trung dữ liệu có giá trị liên kết và phân tích cao.
+
+Sự kiện và thời tiết ảnh hưởng
+đến doanh số bao nhiêu?
+
+Trong số lượng khách tham quan,
+tỷ lệ mua hàng là bao nhiêu?
+
+Số lượng đặt hàng đã tối ưu chưa?
+
+- Dữ liệu POS, doanh thu và hàng hủy của cửa hàng trực tiếp
+- Dữ liệu logistics, tồn kho, giá vốn và xuất hàng
+- Dữ liệu số lượng khách tham quan, thời tiết và khí tượng
+- Dữ liệu mua hàng từ trang EC "Michi-no-Eki Marche"
+
+=== [Hình ảnh: 3_5.png] ===
+Giá trị: Tăng doanh thu không phải là lợi ích duy nhất
+Xây dựng thương hiệu (Branding)
+
+- Đóng góp trực tiếp cho cộng đồng địa phương
+  Thông qua việc hỗ trợ Michi-no-Eki – trung tâm gắn kết cộng đồng địa phương,
+  chúng ta có thể xây dựng thương hiệu là "công ty/hệ thống đóng góp cho kinh tế địa phương",
+  từ đó nâng cao giá trị xã hội.
+
+=== [Hình ảnh: 4_5.png] ===
+Giá trị: Tăng doanh thu không phải là lợi ích duy nhất
+Hợp tác công - tư (Đại học - Doanh nghiệp) & Thu hút nhân tài
+
+- Đồng sáng tạo giá trị thông qua hợp tác với các trường đại học
+  Tận dụng thỏa thuận hợp tác "Michi-no-Eki × Đại học" trên toàn quốc.
+  Cung cấp cho sinh viên cơ hội phân tích sử dụng hệ thống của công ty,
+  dẫn đến **nâng cao mức độ nhận diện đối với thế hệ trẻ và thu hút nhân tài xuất sắc**.
+
+**Ví dụ**
+
+**【Nội dung thực hiện】**
+Cung cấp dữ liệu POS, dữ liệu khách tham quan, dữ liệu khí tượng của Michi-no-Eki đã được thu thập (sau khi đã ẩn danh) cho sinh viên.
+Sinh viên sẽ phân tích dữ liệu và đề xuất giải pháp cho các bài toán như: "Làm thế nào để tăng doanh số của một mặt hàng cụ thể?", "Làm thế nào để giảm thiểu lãng phí thực phẩm?".
+
+**【Lợi ích】**
+- **Datacom**
+  Chứng minh được tính hữu dụng của hệ thống công ty, mở rộng độ nhận diện đối với sinh viên và tạo ra kênh tuyển dụng trực tiếp.
+- **Trường đại học & Sinh viên**
+  Có được cơ hội học tập thực tế sử dụng các bài toán xã hội thực tế và dữ liệu thô.
+- **Michi-no-Eki**
+  Nhận được các ý tưởng mới lạ (như phát triển sản phẩm hoặc cách thức bày trí) từ sinh viên hoàn toàn miễn phí.
+
+=== [Hình ảnh: 5_5.png] ===
+Hệ thống hiện tại + α
+Thông báo hữu ích từ AI
+
+- Dành cho nhà sản xuất & nhà cung cấp
+  - Dự báo liên kết thời tiết & sự kiện
+    "Ngày mai là thứ Bảy. Trời quang mây tạnh và có sự kiện ○○, nên nhu cầu sẽ tăng gấp 1,4 lần (Số lượng đề xuất giao: 50 gói)!"
+    
+    Dựa trên số lượng khách tham quan và doanh thu trong quá khứ để thông báo đến mức số lượng giao hàng khuyến nghị
+    ⇒ Ngăn chặn tình trạng xuất hàng dư thừa, tối đa hóa lợi nhuận
+    
+  - Dữ liệu nơi gửi hàng của trang EC
+    "Hôm qua, sản phẩm ○○ đã được gửi đi tỉnh ○○!"
+    
+    Thông báo nơi gửi hàng của sản phẩm được đặt trên trang EC "Michi-no-Eki Marche"
+    ⇒ Biết được sản phẩm đã đến tay những người ở xa sẽ giúp tăng thêm động lực (có thể là vậy!)
+
+- Dành cho người vận hành
+  - Hỗ trợ giảm giá
+  - Tối ưu hóa ca làm việc của nhân sự

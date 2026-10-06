@@ -1,0 +1,157 @@
+=== [Hình ảnh: 1_6.png] ===
+Hệ thống hỗ trợ hướng dẫn dinh dưỡng không phụ thuộc vào việc tự khai báo
+
+Nếu hiển thị bị lỗi, vui lòng nhấn vào đây. Chuyển sang chế độ toàn màn hình Đóng
+
+Đề xuất động lực tăng trưởng
+
+# Hệ thống hỗ trợ hướng dẫn dinh dưỡng
+# không phụ thuộc vào việc tự khai báo
+
+Biến việc mua sắm hàng ngày thành sự hỗ trợ sức khỏe vững chắc
+
+2026.09
+
+=== [Hình ảnh: 2_6.png] ===
+Hệ thống hỗ trợ hướng dẫn dinh dưỡng không phụ thuộc vào việc tự khai báo
+
+Nếu hiển thị bị lỗi, vui lòng nhấn vào đây. Chuyển sang chế độ toàn màn hình Đóng
+
+## 01. Thách thức mang tính cấu trúc mà việc phòng ngừa bệnh lối sống và hướng dẫn dinh dưỡng đang phải đối mặt
+
+Bối cảnh xã hội: Khoảng 50% tổng số ca tử vong hàng năm tại Nhật Bản có liên quan đến các bệnh do lối sống. Đây là lĩnh vực trọng tâm đòi hỏi sự cải thiện triệt để nhất nhằm tối ưu hóa chi phí y tế.
+
+### Thách thức từ phía đối tượng (bệnh nhân, người dân)
+
+* **Phát sinh việc khai báo thiếu một cách vô thức hoặc cố ý**
+  Lượng ăn vặt, tiêu thụ rượu và gia vị rất dễ bị khai báo thấp hơn thực tế do tâm lý giữ hình ảnh hoặc do nhớ nhầm, gây cản trở nghiêm trọng đến việc nắm bắt thực trạng lối sống chính xác.
+* **Bỏ dở giữa chừng do gánh nặng ghi chép quá lớn**
+  Việc phải nhập thủ công nguyên liệu hoặc chụp ảnh món ăn mỗi lần là gánh nặng lớn về tâm lý và thời gian, là nguyên nhân chính khiến đặc biệt là thế hệ bận rộn và tầng lớp ít quan tâm không thể tiếp tục và bỏ cuộc.
+
+### Thách thức từ phía người hướng dẫn (chuyên gia dinh dưỡng quản lý, bác sĩ)
+
+* **Hiệu quả hướng dẫn bị chững lại do tiền đề không chính xác**
+  Buộc phải đưa ra lời khuyên dựa trên nội dung tự khai báo có sự sai lệch so với thực tế, khiến cho việc can thiệp cá nhân hóa dựa trên dữ liệu khách quan và có hiệu quả trở nên vô cùng khó khăn.
+* **Thời gian đối thoại bị thu hẹp do việc tính toán giá trị dinh dưỡng thủ công**
+  Tốn quá nhiều thời gian chuẩn bị cho việc quy đổi giá trị dinh dưỡng và kiểm tra tính nhất quán một cách thủ công từ các hồ sơ khai báo không hoàn chỉnh, làm lấn át thời gian dành cho các buổi phỏng vấn tạo động lực vốn là việc cần tập trung.
+
+[Bản chất của thách thức] Phương pháp truyền thống phụ thuộc vào "trí nhớ" và "việc ghi chép thủ công" của cá nhân đã đối mặt với giới hạn trong việc nắm bắt chính xác thực trạng cũng như thiết lập sự thay đổi hành vi mang tính bền vững.
+
+=== [Hình ảnh: 3_6.png] ===
+Hệ thống hỗ trợ hướng dẫn dinh dưỡng không phụ thuộc vào việc tự khai báo
+
+Nếu hiển thị bị lỗi, vui lòng nhấn vào đây. Chuyển sang chế độ toàn màn hình Đóng
+
+## 02. Tổng quan đề xuất
+
+Biến việc mua sắm hàng ngày thành sự hỗ trợ sức khỏe vững chắc
+
+Cốt lõi của đề xuất này
+"Tự động phân tích xu hướng dinh dưỡng nạp vào từ lịch sử mua sắm hàng ngày, giúp đối tượng nhận hướng dẫn dinh dưỡng không phải chịu gánh nặng ghi chép, đồng thời hiện thực hóa đồng thời việc ăn uống & hướng dẫn mang tính khách quan từ chuyên gia dinh dưỡng quản lý hoặc bác sĩ nhằm phòng ngừa bệnh do lối sống, cùng với việc định hình thói quen mua sắm lành mạnh tại các cửa hàng quen thuộc."
+
+### Tự động thu thập và quy đổi dinh dưỡng nạp vào
+Tự động tính toán hàm lượng muối, đường và chất béo từ dữ liệu qua quầy thu ngân thông qua việc xuất trình thẻ thành viên. Loại bỏ công sức nhập thủ công hoặc chụp ảnh món ăn, ngăn chặn tình trạng bỏ dở giữa chừng.
+
+### Hướng dẫn dựa trên thực tế khách quan
+Cung cấp màn hình mua sắm chính xác, không bị sót khai báo hay nhầm lẫn trí nhớ. Giảm đáng kể thời gian chuẩn bị, giúp chuyên gia dinh dưỡng quản lý có thể tập trung hoàn toàn vào việc đối thoại thực tế.
+
+### Định hình hành vi tại cửa hàng
+Liên kết với nội dung hướng dẫn để cung cấp các sản phẩm thay thế giảm muối... cùng ưu đãi giảm giá có thể mua tại các cửa hàng gần nhà. Thúc đẩy cải thiện thói quen ăn uống tự nhiên ngay trong luồng sinh hoạt hàng ngày.
+
+=== [Hình ảnh: 4_6.png] ===
+Hệ thống hỗ trợ hướng dẫn dinh dưỡng không phụ thuộc vào việc tự khai báo
+
+Nếu hiển thị bị lỗi, vui lòng nhấn vào đây. Chuyển sang chế độ toàn màn hình Đóng
+
+## 03. Hệ thống tính năng kết nối người hướng dẫn và đối tượng
+
+### Tính năng dành cho đối tượng (Ứng dụng theo luồng sinh hoạt)
+Đối tượng hướng dẫn, bệnh nhân, người dân địa phương (Điện thoại thông minh)
+
+* **01 Bệnh án dinh dưỡng tự động với gánh nặng ghi chép bằng không**
+  Tự động tính toán cân bằng dinh dưỡng và điểm số giảm muối từ việc mua sắm hàng ngày chỉ bằng cách xuất trình thẻ thành viên hoặc thanh toán điện tử.
+* **02 Lời khuyên cá nhân hóa từ chuyên gia dinh dưỡng quản lý phụ trách**
+  Nhận kịp thời "phản hồi về việc cải thiện của tuần trước" hoặc "mẹo đi chợ của tuần này" từ chuyên gia phụ trách phỏng vấn.
+* **03 Hướng dẫn đổi sản phẩm thay thế & Coupon liên kết cửa hàng**
+  Phân phối các đặc quyền giới hạn giúp mua giảm giá các sản phẩm "gia vị giảm muối", "mì ít đường" được chỉ định trong buổi phỏng vấn tại siêu thị gần nhà.
+* **04 Trao điểm thưởng khi đạt được mục tiêu cải thiện**
+  Cấp điểm thưởng tùy theo việc tiếp tục mua các sản phẩm thay thế được khuyến nghị hoặc tiếp tục đo huyết áp, cân nặng, qua đó định hình sự thay đổi hành vi.
+
+Đề xuất hướng dẫn và cải thiện
+Phươngنس pháp hướng dẫn & chỉ định sản phẩm thay thế
+Phân phối coupon và đặc quyền cửa hàng
+Dữ liệu mua sắm & thành tích
+Thực tế mua sắm & xu hướng dinh dưỡng
+Đánh giá mức độ đạt được khi mua sắm
+
+### Tính năng dành cho người hướng dẫn (Màn hình quản lý)
+Chuyên gia dinh dưỡng quản lý, chuyên gia hướng dẫn y tế, bác sĩ (Web)
+
+* **01 Tự động quy đổi từ POS mua sắm × Bảng thành phần chuẩn**
+  Tự động tổng hợp lượng muối, đường, chất béo và calo từ mã JAN, giúp trực quan hóa ngay lập tức sự lệch lạc trong chế độ nạp vào.
+* **02 Phát hiện cảnh báo mua sắm rủi ro bệnh lý**
+  Tự động cảnh báo tần suất các mặt hàng có nguy cơ cao (thực phẩm chế biến, gia vị, đồ uống, v.v.) liên quan trực tiếp đến cao huyết áp, tiểu đường, v.v.
+* **03 Gợi ý sản phẩm thay thế có thể mua tại cửa hàng gần nhà**
+  Liên kết với cơ sở dữ liệu sắp xếp kệ hàng của các cửa hàng mà đối tượng hay sử dụng, đề xuất các ứng cử viên thay thế giảm muối, ít đường một cách dễ dàng.
+* **04 Phân tích tương quan chỉ số khám sức khỏe & Xuất định dạng theo luật định**
+  Xác thực tương quan với diễn biến huyết áp, HbA1c, xuất định dạng chuẩn hướng dẫn y tế chuyên biệt giai đoạn 4 của Bộ Y tế, Lao động và Phúc lợi (XML).
+
+Nền tảng liên kết dữ liệu mua sắm
+POS bán lẻ & thanh toán (Lịch sử mua sắm)
+Đối chiếu từ điển thành phần (Tự động tính giá trị dinh dưỡng)
+Sử dụng đa hướng (Hướng dẫn khách quan ⇄ Định hình tại cửa hàng)
+
+=== [Hình ảnh: 5_6.png] ===
+Hệ thống hỗ trợ hướng dẫn dinh dưỡng không phụ thuộc vào việc tự khai báo
+
+Nếu hiển thị bị lỗi, vui lòng nhấn vào đây. Chuyển sang chế độ toàn màn hình Đóng
+
+## 04. Lộ trình phát triển kinh doanh và định hướng trong tương lai
+
+### Giai đoạn 1
+#### Xác thực mô hình tiên phong
+* **Chính sách chính & Mục hạng xác thực**
+  * Liên kết POS và đối chiếu từ điển thành phần tại 1 nhà bán lẻ thực tế (vài cửa hàng)
+  * Thử nghiệm thực tế hướng dẫn tại cơ quan y tế và hiệp hội bảo hiểm y tế đối tác (xác thực tính dễ thao tác)
+  * Xác thực ban đầu về việc chuyển đổi mua sản phẩm thay thế thông qua việc phân phối ứng dụng cho đối tượng
+* **Mục tiêu đạt được**
+  Độ chính xác quy đổi dinh dưỡng tự động từ 95% trở lên / Giảm từ 50% thời gian chuẩn bị trước trở lên.
+
+### Giai đoạn 2
+#### Triển khai toàn diện & Mở rộng
+* **Chính sách chính & Mở rộng kinh doanh**
+  * Triển khai cung cấp hệ thống cho các cơ quan y tế và bảo hiểm y tế
+  * Mở rộng tuần tự mạng lưới siêu thị và cửa hàng thuốc đối tác sang các chuỗi khu vực
+  * Vận hành thực tế động cơ phân tích tương quan khám sức khỏe và hiệu quả can thiệp hướng dẫn bảo hiểm
+* **Mục tiêu đạt được**
+  30 tổ chức bảo hiểm y tế và cơ quan y tế áp dụng / Tỷ lệ hoàn thành tiếp tục hướng dẫn y tế chuyên biệt vượt 80%.
+
+### Giai đoạn 3
+#### Xây dựng nền tảng phòng ngừa khu vực
+* **Chính sách chính & Định hình xã hội**
+  * Thúc đẩy việc áp dụng làm menu chuẩn cho các chính quyền địa phương (Bảo hiểm y tế quốc gia, hỗ trợ toàn diện khu vực)
+  * Quảng bá chung sản phẩm sức khỏe dựa trên bằng chứng với các nhà sản xuất thực phẩm và hàng gia dụng
+  * Hoàn trả tri thức thông qua việc liên kết dữ liệu thống kê ẩn danh với chính sách y tế và học thuật
+* **Mục tiêu đạt được**
+  Định hình cơ sở hạ tầng phòng ngừa lối sống ở cấp độ tỉnh/thành phố.
+
+=== [Hình ảnh: 6_6.png] ===
+Hệ thống hỗ trợ hướng dẫn dinh dưỡng không phụ thuộc vào việc tự khai báo
+
+Nếu hiển thị bị lỗi, vui lòng nhấn vào đây. Chuyển sang chế độ toàn màn hình Đóng
+
+## 05. Ý nghĩa kinh doanh và cơ hội tăng trưởng của công ty
+
+Vị trí trong chiến lược kinh doanh: Tận dụng thế mạnh phân tích dữ liệu bán lẻ để thâm nhập vào thị trường y tế và phòng ngừa bệnh do lối sống – nơi cứ 2 người dân thì có 1 người phải đối mặt. Hoàn thành quá trình tiến hóa kinh doanh từ một công ty phân tích dữ liệu thành "doanh nghiệp cơ sở hạ tầng xã hội không thể thiếu để hỗ trợ xã hội khỏe mạnh".
+
+### Thâm nhập vào thị trường mới khổng lồ gồm y tế và bảo hiểm y tế
+Mở rộng lĩnh vực kinh doanh vốn chỉ dừng lại ở phân tích dành cho bán lẻ sang thị trường chăm sóc sức khỏe và y tế dự phòng với ngân sách khổng lồ như các cơ quan y tế và hiệp hội bảo hiểm y tế, khai phá nền tảng khách hàng mới.
+
+### Tích lũy dữ liệu kết hợp độc nhất vô nhị và nâng cao giá trị phân tích
+Không chỉ dừng lại ở lịch sử mua sắm đơn thuần, mà còn tích lũy dữ liệu kết hợp độc quyền mang tên "mối nhân quả giữa việc mua sắm và chỉ số sức khỏe". Thiết lập tri thức phân tích nâng cao mà các công ty khác không thể sao chép, nâng cao lợi thế cạnh tranh của dịch vụ công ty.
+
+### Củng cố giao dịch bán lẻ hiện có & Ngăn chặn hủy hợp đồng
+Cung cấp lợi ích kinh doanh trực tiếp mang tên "thu hút khách hàng & bán sản phẩm giá trị gia tăng" cho các đối tác bán lẻ hiện tại, qua đó ngăn chặn việc chuyển sang công cụ của công ty khác và cố định hóa mối quan hệ giao dịch một cách vững chắc.
+
+### Nâng cao lòng tin, độ nhận diện xã hội và phát triển trong tương lai
+Nâng cao giá trị doanh nghiệp bằng cách dẫn dắt việc giải quyết các vấn đề xã hội như phòng ngừa bệnh do lối sống chuyển biến nặng và tối ưu hóa chi phí y tế, tạo tiền đề cho việc liên kết dữ liệu thống kê ẩn danh với các ngành công nghiệp khác trong tương lai.

@@ -1,0 +1,663 @@
+=== [Hình ảnh: 1_15.png] ===
+SPORTS RETAIL RADAR & GLOBAL RETAIL RADAR
+
+Bấm vào đây nếu giao diện bị lỗi hiển thị
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+‹ Ẩn danh sách
+
+DATACOM
+growth engine
+
+Tổng quan về dự án
+
+Tạo ra khu vực bán hàng và doanh thu thông qua thể thao
+
+SPORTS RETAIL RADAR
+
+Datacom lên kế hoạch và tổ chức các sự kiện thể thao, phối hợp với các nhà bán lẻ để tạo ra những không gian "khiến khách hàng muốn tham gia" và "muốn mua sắm".
+
+Vấn đề cần giải quyết
+Việc thu hút khách tham gia sự kiện và các biện pháp bán hàng tại các cửa hàng xung quanh bị chia cắt.
+Không có sự đồng bộ từ sản phẩm, số lượng, quầy hàng cho đến xúc tiến bán hàng,
+dẫn đến việc chưa tận dụng triệt để các cơ hội mua sắm.
+
+Giá trị cung cấp dưới dạng một dự án kinh doanh
+Đối với nhà sản xuất: Điểm tiếp xúc từ trải nghiệm sản phẩm cho đến mua sắm.
+Đối với nhà bán lẻ: Động lực ghé thăm cửa hàng và doanh thu gia tăng.
+Đối với người tham gia: Trải nghiệm tận hưởng cả thể thao và mua sắm.
+
+Thế mạnh của Datacom: Tận dụng các điểm tiếp xúc với nhà bán lẻ và phân tích POS, đảm nhiệm từ khâu tổ chức đến kiểm chứng doanh số thực tế.
+
+Giả thuyết kinh doanh: Cung cấp tích hợp việc tổ chức sự kiện, xúc tiến bán hàng tại cửa hàng và đo lường hiệu quả, nhằm hướng tới việc tổ chức định kỳ.
+
+1 / 15
+01 / 05
+
+=== [Hình ảnh: 2_15.png] ===
+SPORTS RETAIL RADAR & GLOBAL RETAIL RADAR
+
+Bấm vào đây nếu giao diện bị lỗi hiển thị
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+‹ Ẩn danh sách
+
+DATACOM
+growth engine
+
+Nội dung dịch vụ & Phân chia vai trò
+
+Thiết kế sự kiện và cửa hàng như một biện pháp đồng bộ
+
+Datacom và nhà bán lẻ cùng nhau lên kế hoạch, kết nối sản phẩm của nhà sản xuất với hành vi mua sắm thực tế.
+
+01 Trước sự kiện
+Tạo lý do mua sắm
+
+Liên kết thông tin hướng dẫn tham gia với sản phẩm mục tiêu
+Thúc đẩy việc mua trước và đặt trước
+
+02 Trong ngày sự kiện
+Trải nghiệm sản phẩm
+
+Tổ chức chạy bộ / chạy tiếp sức
+Giới thiệu sản phẩm thông qua điểm tiếp nước / phát mẫu thử
+
+03 Tại cửa hàng
+Thúc đẩy ghé thăm & mua sắm
+
+Khu vực trưng bày liên kết tại các cửa hàng xung quanh
+Triển khai các chương trình ưu đãi và mã giảm giá giới hạn
+
+04 Sau sự kiện
+Xác thực doanh số thực tế
+
+Xác nhận doanh thu theo từng sản phẩm qua hệ thống POS
+Phản ánh vào cơ cấu hàng hóa và số lượng cho lần tiếp theo
+
+Phụ trách
+Vai trò chính
+
+Datacom
+Chủ trì & tổng thiết kế, kinh doanh tài trợ, thiết kế luồng mua hàng, đo lường hiệu quả POS
+
+Nhà bán lẻ & Nhà sản xuất
+Nhà bán lẻ: Quầy hàng, đặt hàng, bán hàng, cung cấp POS / Nhà sản xuất: Tài trợ, sản phẩm, xúc tiến bán hàng
+
+Công ty chuyên môn vận hành
+Đảm nhiệm các công việc thực tế như vận hành địa điểm, tiến hành thi đấu, quản lý an toàn
+
+Ví dụ về sản phẩm liên kết: Trước sự kiện là nước, thạch, chuối; sau sự kiện là đồ ăn sẵn, cơm hộp, kem. Tiền bán sản phẩm thuộc về nhà bán lẻ thực hiện việc bán hàng.
+
+2 / 15
+02 / 05
+
+=== [Hình ảnh: 3_15.png] ===
+SPORTS RETAIL RADAR & GLOBAL RETAIL RADAR
+
+Bấm vào đây nếu giao diện bị lỗi hiển thị
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+‹ Ẩn danh sách
+
+DATACOM
+growth engine
+
+Kiểm chứng thực tế ban đầu (PoC)
+
+Kiểm tra tính khả thi của dự án bằng "DATACOM DATA RUN"
+
+Trước tiên, thử nghiệm công tác vận hành và luồng mua hàng với nhân viên và đối tác, sau đó tiến tới tổ chức chính thức phối hợp với nhà bán lẻ.
+
+Chuẩn bị kiểm chứng
+50 ~ 150 người
+
+Tổ chức tập trung vào nhân viên và đối tác
+Xác nhận quy trình tiếp đón, vận hành thi đấu và luồng mua hàng
+
+Mục tiêu tổ chức chính thức
+500 ~ 1.000 người
+
+Tuyển dụng người tham gia phổ thông, tổ chức chạy 5km & chạy tiếp sức giữa các doanh nghiệp
+Dự kiến 1 nhà bán lẻ với 1 ~ 3 cửa hàng, 2 ~ 4 nhà sản xuất
+
+Nội dung cần kiểm chứng
+Phương pháp xác nhận
+
+Liệu có tạo ra doanh thu không?
+Kiểm chứng doanh thu và lợi nhuận gộp của sản phẩm mục tiêu trước - sau sự kiện và so sánh với các cửa hàng khác
+
+Liệu có thể duy trì có phí không?
+Xác nhận hợp đồng tài trợ và ý định ký lại hợp đồng của nhà sản xuất, cũng như việc tiếp tục tham gia của nhà bán lẻ
+
+Liệu có thể tái tạo công tác vận hành không?
+Đo lường chi phí thu hút khách, chi phí vận hành và nguồn lực nội bộ để nắm bắt thu chi của sự kiện
+
+Số lượng người và số công ty chỉ là giả thuyết. Cần xác nhận thêm các ảnh hưởng từ thời tiết, giảm giá, v.v. Phí sử dụng ban đầu đối với nhà bán lẻ là miễn phí, ID-POS sẽ được tận dụng khi các điều kiện sử dụng được đáp ứng.
+
+3 / 15
+03 / 05
+
+=== [Hình ảnh: 4_15.png] ===
+SPORTS RETAIL RADAR & GLOBAL RETAIL RADAR
+
+Bấm vào đây nếu giao diện bị lỗi hiển thị
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+‹ Ẩn danh sách
+
+DATACOM
+growth engine
+
+Mô hình doanh thu
+
+Cân đối thu chi của sự kiện thông qua phí tài trợ và phí tham gia
+
+Cung cấp cho nhà sản xuất gói tích hợp "Trải nghiệm sản phẩm + Xúc tiến bán hàng tại cửa hàng + Báo cáo doanh số thực tế".
+
+Ước tính cho 1 lần tổ chức chính thức
+Điều kiện tính toán
+Số tiền
+
+Phí tài trợ từ nhà sản xuất
+4 công ty × 50 nghìn yên
+2 triệu yên
+
+Phí tham gia
+1.000 người × 3.000 yên
+3 million yen (3 triệu yên)
+
+Tổng doanh thu
+5 triệu yên
+
+Chi phí trực tiếp tổ chức
+Chi phí cố định 3 triệu yên + Chi phí biến đổi 1 triệu yên
+4 triệu yên
+
+Lợi nhuận tổ chức
+Doanh thu - Chi phí trực tiếp tổ chức
+1 triệu yên
+
+Khách hàng trả phí ban đầu
+Nhà sản xuất + Người tham gia
+
+Phí sử dụng ban đầu của nhà bán lẻ là miễn phí.
+Trước tiên, chúng tôi sẽ chứng minh giá trị tài trợ và sức hút khách hàng,
+hướng tới việc tổ chức định kỳ.
+
+Doanh thu bổ sung trong tương lai
+Phí hỗ trợ biện pháp cho nhà bán lẻ
+Báo cáo hiệu quả cho các cơ quan chính quyền địa phương, v.v.
+
+Trường hợp sụt giảm (Thực tế thấp hơn dự kiến)
+500 người & 2 nhà tài trợ: Doanh thu 2,5 triệu yên, Chi phí 3,5 triệu yên
+Lỗ tổ chức: 1 triệu yên
+
+Tất cả các con số đều là giả thuyết về giá cả và chi phí. Chi phí cố định bao gồm cả công sức nhân sự nội bộ. Chi phí biến đổi là 1.000 yên/người. Chưa bao gồm chi phí chung toàn công ty và thuế. Không bao gồm doanh thu bán sản phẩm tại cửa hàng.
+
+4 / 15
+04 / 05
+
+=== [Hình ảnh: 5_15.png] ===
+SPORTS RETAIL RADAR & GLOBAL RETAIL RADAR
+
+Bấm vào đây nếu giao diện bị lỗi hiển thị
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+‹ Ẩn danh sách
+
+DATACOM
+growth engine
+
+Kế hoạch triển khai & Yêu cầu trong khâu thẩm định
+
+Xác nhận khả năng duy trì có phí và tính sinh lời để mở rộng khu vực tổ chức
+
+Lấy việc tự tổ chức hàng năm làm điểm khởi đầu, triển khai việc đồng tổ chức với các nhà bán lẻ ra nhiều khu vực.
+
+STEP 1
+Kiểm chứng bằng sự kiện tự tổ chức
+DATACOM DATA RUN
+
+Xác nhận hiệu quả doanh số thực tế với nhà bán lẻ và nhà sản xuất
+Xây dựng mô hình sản phẩm, quầy hàng và vận hành
+
+STEP 2
+Mở rộng sang khu vực & môn thể thao khác
+SPORTS RETAIL RADAR
+
+Tổ chức chung với nhà bán lẻ tại các khu vực khác
+Mở rộng sang điền kinh, bóng đá, v.v.
+
+STEP 3
+Mở rộng sang các sự kiện khác
+EVENT RETAIL RADAR
+
+Mở rộng đối tượng sang các lễ hội, ngày hội, v.v.
+Tích lũy các biện pháp và dữ liệu doanh số thực tế
+
+Những việc cần làm khi triển khai thực tế
+Phỏng vấn 2 nhà bán lẻ và 5 nhà sản xuất. Xác nhận giá tài trợ, cung cấp POS và dự toán vận hành.
+
+Yêu cầu trong khâu thẩm định: Bắt đầu khảo sát tính thương mại hóa bởi 2 nhân sự phụ trách kinh doanh và phân tích. Quyết định đầu tư tổ chức sẽ được đưa ra sau khi có hợp đồng và dự toán.
+Điều kiện mở rộng: Nhà sản xuất tiếp tục trả phí, nhà bán lẻ tiếp tục tham gia, sự kiện có lãi. Nếu sau 90 ngày mà chưa thấy triển vọng ký kết hợp đồng tài trợ, sẽ xem xét lại quy mô và kế hoạch tổ chức.
+
+5 / 15
+05 / 05
+
+=== [Hình ảnh: 6_15.png] ===
+SPORTS RETAIL RADAR & GLOBAL RETAIL RADAR
+
+Bấm vào đây nếu giao diện bị lỗi hiển thị
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+‹ Ẩn danh sách
+
+6 / 15
+
+=== [Hình ảnh: 7_15.png] ===
+SPORTS RETAIL RADAR & GLOBAL RETAIL RADAR
+
+Bấm vào đây nếu giao diện bị lỗi hiển thị Chuyển sang chế độ toàn màn hình Đóng
+
+- Ẩn danh sách
+
+DATACOM
+growth engine
+
+Biến xu hướng "bắt đầu bán chạy" trên thế giới
+thành "nước đi tiếp theo" của Nhật Bản.
+— Dịch vụ dự báo thị trường & đề xuất giải pháp bán hàng dành cho nhà bán lẻ —
+
+PRODUCT Sản phẩm này là gì?
+GLOBAL RETAIL RADAR là dịch vụ dự báo thị trường và đề xuất giải pháp bán hàng dành cho nhà bán lẻ. Dịch vụ này giúp phát hiện sớm các sản phẩm và danh mục hàng hóa bắt đầu tăng trưởng ở nước ngoài, kết hợp với làn sóng lan tỏa tại thị trường Nhật Bản cùng hệ thống POS và ID-POS của chính nhà bán lẻ để cụ thể hóa thành các biện pháp bán hàng.
+Không chỉ đơn thuần giới thiệu xu hướng, dịch vụ này còn đưa ra Action Ticket chỉ rõ "bán cái gì, ở cửa hàng nào, cho ai, bán như thế nào", đồng thời thực hiện cả việc kiểm chứng kết quả sau khi bán.
+
+Phát hiện xu hướng nước ngoài × Xác nhận POS thị trường × Tận dụng POS/ID-POS nội bộ × Action Ticket
+
+Hàn Quốc là cảm biến
+xu hướng đầu tiên
+
+K-Food
+Khoảng 2,0 nghìn tỷ yên
+Kim ngạch xuất khẩu năm 2025
+
+K-Beauty
+Khoảng 1,7 nghìn tỷ yên
+
+01
+Xu hướng nước ngoài đến các cửa hàng thực tế quá chậm
+Chỉ dựa vào mạng xã hội hay tin tức thị trường thì không thể phán đoán được "sản phẩm sẽ bán chạy ở cửa hàng nào của công ty mình".
+
+02
+POS thị trường rất mạnh mẽ. Tuy nhiên "hành động tiếp theo" cần phải được chuyển ngữ
+Kết nối dữ liệu thị trường như KSP, Intage... với dữ liệu nội bộ của từng nhà bán lẻ.
+
+03
+Với Datacom, có thể đưa xuống tận quầy hàng, khách hàng và xúc tiến bán hàng
+Biến sự thay đổi của thị trường thành hành động cụ thể "sản phẩm, cửa hàng, khách hàng, biện pháp".
+
+Nguồn: Lập dựa trên MAFRA "Kim ngạch xuất khẩu K-Food Plus 2025" / tài liệu báo cáo của MFDS Hàn Quốc, v.v. Các con số dùng để xem xét giả thuyết kinh doanh. *Quy đổi 1 USD = 150 yên.
+7 / 15
+
+=== [Hình ảnh: 8_15.png] ===
+SPORTS RETAIL RADAR & GLOBAL RETAIL RADAR
+
+Bấm vào đây nếu giao diện bị lỗi hiển thị Chuyển sang chế độ toàn màn hình Đóng
+
+- Ẩn danh sách
+
+DATACOM
+growth engine
+
+WHY NOW Thách thức của khách hàng & Cơ hội kinh doanh
+Kiểm chứng sự hoài nghi "Liệu có bán được không?" bằng dữ liệu cửa hàng thực tế.
+
+Giữa các nhà sản xuất/thương nhân nước ngoài và các nhà bán lẻ đang thiếu một cơ chế để thử nghiệm quy mô nhỏ trước khi đưa vào toàn bộ các cửa hàng.
+
+Nhà sản xuất / Thương nhân nước ngoài
+Không biết sản phẩm nào sẽ bán chạy tại Nhật Bản
+Không biết nên đề xuất cho nhà bán lẻ/cửa hàng nào
+Khó tiến hành từ khâu khảo sát thị trường đến bán hàng thực tế
+Muốn kìm hãm chi phí đầu tư ban đầu khi tiến vào Nhật Bản
+
+Thách thức: Thiếu kiểm chứng tính tương thích với thị trường Nhật Bản
+
+Doanh nghiệp bán lẻ
+Không thể theo đuổi kịp các xu hướng nước ngoài
+Dù được bàn tán trên mạng xã hội chưa chắc đã bán chạy ở công ty mình
+Việc đưa vào toàn bộ cửa hàng đòi hỏi lượng tồn kho và phân bổ kệ hàng lớn
+Kiểm chứng hiệu quả sau khi áp dụng chưa đầy đủ
+
+Thách thức: Thiếu không gian để thử nghiệm với rủi ro thấp
+
+GLOBAL RETAIL RADAR
+Kết nối Xu hướng nước ngoài × POS thị trường × POS/ID-POS nội bộ để kiểm chứng giả thuyết trước khi bán tại cửa hàng thực tế.
+Mang lại "Kệ hàng bán chạy" cho nhà sản xuất.
+Mang lại "Sản phẩm bán chạy" cho nhà bán lẻ.
+Biến khoảng cách kiểm chứng thành cơ hội kinh doanh.
+
+Tại sao lại là bây giờ? Do sự mở rộng của K-Food, K-Beauty, khách du lịch inbound, thương mại điện tử xuyên biên giới và xu hướng mạng xã hội, nhu cầu nắm bắt sớm các dấu hiệu hit từ nước ngoài và kiểm chứng tại cửa hàng thực tế đang ngày càng tăng cao.
+
+Lưu ý: PoC, giá cả và mô hình doanh thu đang là giả thuyết ban đầu. Việc sử dụng dữ liệu thị trường được thiết kế dựa trên tiền đề có hợp đồng và cấp phép sử dụng.
+8 / 15
+
+=== [Hình ảnh: 9_15.png] ===
+SPORTS RETAIL RADAR & GLOBAL RETAIL RADAR
+
+Bấm vào đây nếu giao diện bị lỗi hiển thị Chuyển sang chế độ toàn màn hình Đóng
+
+- Ẩn danh sách
+
+WHAT Tổng quan dịch vụ
+Thế giới → Thị trường → Nội bộ → Hành động → Kiểm chứng
+
+Chuyển đổi "dấu hiệu" từ thế giới thành Action Ticket có thể sử dụng tại quầy hàng của từng nhà bán lẻ.
+
+KOREA FIRST
+GLOBAL
+SIGNAL
+Hàn Quốc → Châu Á → Thế giới
+Sản phẩm / danh mục bắt đầu tăng trưởng
+
+MARKET
+DATA
+KSP / Intage, v.v.
+Liệu có đang tăng trưởng ở thị trường Nhật Bản không?
+
+DATACOM
+Lĩnh vực
+POS/ID-POS nội bộ, cửa hàng
+Khu vực thương mại, xúc tiến, tồn kho
+
+AI
+ACTION
+Bán cái gì, ở cửa hàng nào
+Bán cho ai, bán như thế nào
+
+RESULT
+LEARN
+Kiểm chứng bằng POS/ID-POS
+Học hỏi mô hình thành công
+
+DATACOM
+growth engine
+
+Lĩnh vực hợp tác
+KSP / Intage
+POS thị trường, chuẩn mực thị trường,
+bảng xếp hạng sản phẩm mới, xu hướng danh mục
+Cung cấp chữ "What" (Cái gì) của thị trường
+
+Lĩnh vực của Datacom | Sân chơi chủ đạo
+Retail Action Layer
+Tích hợp POS/ID-POS nội bộ, cửa hàng, khu vực thương mại, xúc tiến bán hàng, phân bổ kệ hàng, tồn kho
+Tạo ra chữ "Now What" (Giờ thì làm gì) của từng công ty
+
+Đầu ra (Output)
+Action Ticket
+Ví dụ: Thử nghiệm thực phẩm đông lạnh hàm lượng protein cao tại 18 cửa hàng kiểu đô thị trong 4 tuần.
+Xúc tiến bán hàng qua ứng dụng cho khách hàng mục tiêu.
+Biến dữ liệu thị trường thành chỉ thị thực thi.
+
+Tham khảo: Trang công khai KSP-SP, v.v. Phạm vi sử dụng thương mại và điều kiện cung cấp lại dựa trên tiền đề thảo luận riêng.
+9 / 15
+
+=== [Hình ảnh: 10_15.png] ===
+SPORTS RETAIL RADAR & GLOBAL RETAIL RADAR
+
+Bấm vào đây nếu giao diện bị lỗi hiển thị Chuyển sang chế độ toàn màn hình Đóng
+
+- Ẩn danh sách
+
+WHY DATACOM Lý do Datacom thực hiện
+Mở rộng năng lực tận dụng dữ liệu bán lẻ đến cả thị trường nước ngoài.
+
+Không tạo ra doanh nghiệp mới từ con số không, mà triển khai các tài sản hiện có sang "Xu hướng nước ngoài × PoC tại cửa hàng thực tế".
+
+Tài sản đã sở hữu
+Giao dịch hiện có & điểm tiếp xúc khách hàng với các doanh nghiệp bán lẻ
+Bí quyết tận dụng dữ liệu POS và ID-POS
+d3 / RetailView / Customer Journal
+Phân tích cửa hàng, khách hàng, khu vực thương mại, xúc tiến bán hàng
+Bí quyết kiểm chứng hiệu quả sau khi thực thi biện pháp
+
+Có thể bắt đầu trên đường kéo dài của hoạt động kinh doanh hiện tại
+
+Sân chơi chủ đạo của Datacom
+Retail Action Layer
+Dịch chữ "What" của công ty dữ liệu thị trường thành chữ "Now What" của từng nhà bán lẻ.
+Đưa xuống tận quầy hàng, khách hàng, xúc tiến bán hàng, phân bổ kệ hàng, tồn kho và trình bày dưới dạng Action Ticket.
+
+Năng lực giành được mới
+Thu thập dữ liệu xu hướng nước ngoài
+Mạng lưới nhà sản xuất và thương nhân
+Logic phát hiện dấu hiệu bằng AI
+Logic tạo Action Ticket
+Tích lũy dữ liệu thử nghiệm bán hàng
+
+Trở thành rào cản gia nhập dựa trên mô hình thành công/thất bại
+
+DATACOM
+growth engine
+
+Datacom sẽ không phải là công ty nắm giữ dữ liệu thị trường, mà sẽ trở thành công ty biến dữ liệu thị trường thành "hành động tạo ra doanh thu".
+
+Lưu ý: PoC, giá cả và mô hình doanh thu đang là giả thuyết ban đầu. Việc sử dụng dữ liệu thị trường được thiết kế dựa trên tiền đề có hợp đồng và cấp phép sử dụng.
+10 / 15
+
+=== [Hình ảnh: 11_15.png] ===
+SPORTS RETAIL RADAR & GLOBAL RETAIL RADAR
+
+Bấm vào đây nếu giao diện bị lỗi hiển thị Chuyển sang chế độ toàn màn hình Đóng
+
+- Ẩn danh sách
+
+HOW TO START Thiết kế PoC ban đầu
+Ban đầu bắt đầu từ "Thực phẩm Hàn Quốc × 1 siêu thị thực phẩm × 10 ~ 20 cửa hàng".
+
+Mục đích của PoC không phải là độ chính xác của bản thân AI, mà là kiểm chứng xem "có thể biến dấu hiệu thị trường thành hành động doanh thu hay không".
+
+01 Lựa chọn sản phẩm tiềm năng
+Lựa chọn 2~3 sản phẩm thực phẩm Hàn Quốc
+từ dữ liệu thị trường nước ngoài và Nhật Bản
+
+02 Trích xuất cửa hàng mục tiêu
+Trích xuất 10~20 cửa hàng có độ tương thích cao
+từ dữ liệu POS/ID-POS
+
+03 Chuyển đổi thành Action Ticket
+Thiết kế khách hàng mục tiêu, xúc tiến,
+phân bổ kệ hàng, giá cả, KPI
+
+04 Bán hàng trong 4 tuần
+Tiến hành bán hàng thử nghiệm tại các cửa hàng mục tiêu
+Thực hiện xúc tiến qua ứng dụng, v.v.
+
+05 Kiểm chứng hiệu quả
+Kiểm chứng doanh thu, lợi nhuận gộp, tỷ lệ quay lại mua hàng
+Phán đoán khả năng triển khai toàn bộ cửa hàng
+
+DATACOM
+growth engine
+
+KPI kiểm chứng
+Doanh thu / Số lượng sản phẩm bán ra / Lợi nhuận gộp / Tỷ lệ mua hàng / Tỷ lệ quay lại / Tỷ lệ phản hồi xúc tiến / Chênh lệch giữa cửa hàng mục tiêu và không mục tiêu / Phán đoán triển khai toàn chuỗi
+
+Tiêu chí Go / No-Go
+① Xác nhận được chênh lệch doanh thu tại các cửa hàng mục tiêu
+② Nhìn thấy phản ứng của khách hàng mục tiêu
+③ Cả nhà sản xuất và nhà bán lẻ đều có lợi ích tiếp tục
+
+PoC ban đầu cần "nhỏ gọn và nhanh chóng". Tạo ra 1事例 (trường hợp thành công) để kết nối với việc thu phí nhà sản xuất và mở rộng ra nhiều nhà bán lẻ.
+
+Lưu ý: PoC, giá cả và mô hình doanh thu đang là giả thuyết ban đầu. Việc sử dụng dữ liệu thị trường được thiết kế dựa trên tiền đề có hợp đồng và cấp phép sử dụng.
+11 / 15
+
+=== [Hình ảnh: 12_15.png] ===
+SPORTS RETAIL RADAR & GLOBAL RETAIL RADAR
+
+Bấm vào đây nếu giao diện bị lỗi hiển thị Chuyển sang chế độ toàn màn hình Đóng
+
+- Ẩn danh sách
+
+IMPACT Hình ảnh thương mại hóa & Câu chuyện tăng trưởng
+Bắt đầu từ Hàn Quốc, trở thành công ty đi trước đón đầu các trào lưu trên thế giới.
+
+01 KOREA FIRST
+K-Food × Siêu thị thực phẩm
+Sử dụng POS thị trường để PoC dòng chảy xu hướng Hàn Quốc lan tỏa sang thị trường Nhật Bản và các cửa hàng của công ty.
+
+02 ASIA SENSOR
+Hàn Quốc → Việt Nam → ASEAN
+Biến lĩnh vực thế mạnh của từng quốc gia thành cảm biến, thu thập tín hiệu tăng trưởng theo từng danh mục sản phẩm.
+
+03 GLOBAL RADAR
+Dự báo các dấu hiệu trên thế giới
+Đi trước đón đầu các sản phẩm và danh mục sắp tới Nhật Bản.
+
+DATACOM
+growth engine
+
+PoC ban đầu "nhỏ gọn và nhanh chóng"
+2~3 sản phẩm thực phẩm Hàn Quốc × 1 siêu thị × 10~20 cửa hàng
+Xác nhận dấu hiệu bằng POS thị trường → Lựa chọn cửa hàng nội bộ → Bán hàng trong 4 tuần → Kiểm chứng bằng POS/ID-POS
+Nội dung kiểm chứng: Liệu có thực sự biến chênh lệch thị trường thành hành động doanh thu hay không?
+
+Mô hình doanh thu | Nhà bán lẻ miễn phí, Nhà sản xuất trả phí
+Doanh nghiệp bán lẻ: Cơ bản miễn phí
+Cung cấp cửa hàng thực tế và dữ liệu POS
+Kiểm chứng sản phẩm mới với rủi ro thấp
+Nhà sản xuất / Thương nhân nước ngoài: Ví dụ thu phí
+Phân tích tính thích ứng với thị trường Nhật Bản, chi phí thử nghiệm cửa hàng
+Thưởng thành công khi áp dụng chính thức
+Mang lại "Sản phẩm bán chạy" cho nhà bán lẻ. Mang lại "Kệ hàng bán chạy" cho nhà sản xuất.
+
+Không cần phải trở thành công ty nắm giữ dữ liệu thị trường. Datacom sẽ trở thành công ty biến dữ liệu của thế giới thành "hành động tạo ra doanh thu".
+Đầu ra: Action Ticket / Cửa hàng khuyến nghị / Khách hàng mục tiêu / Phương án xúc tiến / Báo cáo kiểm chứng hiệu quả
+
+Lưu ý: PoC, giá cả và mô hình doanh thu đang là giả thuyết ban đầu. Việc sử dụng dữ liệu thị trường được thiết kế dựa trên tiền đề có hợp đồng và cấp phép sử dụng.
+12 / 15
+
+=== [Hình ảnh: 13_15.png] ===
+SPORTS RETAIL RADAR & GLOBAL RETAIL RADAR
+
+Bấm vào đây nếu giao diện bị lỗi hiển thị Chuyển sang chế độ toàn màn hình Đóng
+
+---
+
+DATACOM growth engine
+
+BUSINESS
+Giá trị khách hàng và giả thuyết doanh thu
+
+# Phía cung cấp trả phí. Các điều kiện hợp tác của nhà bán lẻ được thống nhất trước.
+
+Mức phí cơ bản ban đầu 3 triệu yên + chi phí thực tế chỉ là giả thuyết về giá. Bên cạnh việc kiểm tra xem có bán được không, chúng tôi còn kiểm tra xem có khách hàng nào chịu chi tiền hay không.
+
+Nhà sản xuất nước ngoài / Thương nhân nhập khẩu
+
+Xác nhận cách sản phẩm bán chạy trước khi phân phối toàn quốc
+Nắm bắt các cửa hàng và mức giá có tiềm năng
+Kiểm chứng xúc tiến và khách hàng mục tiêu
+Sử dụng để phán đoán việc triển khai chính thức
+
+Ứng viên trả phí: Phí cơ bản + chi phí thực tế
+
+Giá trị tham gia của doanh nghiệp bán lẻ
+
+# Thử nghiệm sản phẩm mới tại các cửa hàng giới hạn
+
+Không chỉ xác nhận doanh thu, mà còn xác nhận lợi nhuận gộp danh mục và mức độ triệt tiêu lẫn nhau với sản phẩm hiện có.
+
+Gánh nặng về đăng ký sản phẩm, kệ hàng, nhân lực, hàng tồn đọng sẽ được thống nhất trước bao gồm cả tiền hỗ trợ hoặc bảo đảm.
+
+Giả thuyết tính sinh lời cho 1 dự án
+
+Phí cơ bản: 3 triệu yên
+Giá vốn trực tiếp: 2 triệu yên
+Lợi nhuận gộp dự án: 1 triệu yên
+Tỷ suất lợi nhuận gộp dự án: Khoảng 33%
+
+Cả giá cả và công sức đều chưa được kiểm chứng
+
+Điểm chưa được kiểm chứng lớn nhất là: Liệu có khách hàng đặt hàng với mức giá 3 triệu yên hay không, và có quy trình nào giúp lặp lại mà vẫn kìm hãm được công sức thực tế hay không.
+
+Lưu ý: Thu chi là giả thuyết*. Giá vốn sản phẩm, logistics, chi phí xúc tiến, tiền hỗ trợ sẽ được dự toán riêng và xác định bên gánh chịu thông qua hợp đồng.
+13 / 15
+
+=== [Hình ảnh: 14_15.png] ===
+SPORTS RETAIL RADAR & GLOBAL RETAIL RADAR
+
+Bấm vào đây nếu giao diện bị lỗi hiển thị Chuyển sang chế độ toàn màn hình Đóng
+
+---
+
+DATACOM growth engine
+
+RISKS
+
+# Lý do thất bại và điều kiện dừng dự án
+
+Dù PoC ban đầu có thành công, nếu lợi nhuận và tính tái tạo không được duy trì thì sẽ không thương mại hóa.
+
+Việc thu phí không thành công
+Không có khách hàng ký hợp đồng quanh mức 3 triệu yên
+Thu hẹp giá cả và phạm vi đối tượng. Nếu không tái ký hợp đồng thì dừng lại
+
+Gánh nặng của nhà bán lẻ quá lớn
+Không thể thúc đẩy tham gia do vấn đề kệ hàng, thao tác tại cửa hàng và cung cấp dữ liệu
+Đo lường thực tế công sức và chi phí. Nếu đôi bên không thỏa thuận được thì dừng lại
+
+Không thể so sánh
+Không thể đọc được kết quả do hết hàng, chênh lệch điều kiện kệ hàng, chênh lệch giá bán
+Bắt buộc ghi nhận điều kiện, nếu không thể phân tích thì không tính là thành công
+
+Bị phụ thuộc vào cá nhân (tính cá nhân hóa)
+Công sức điều chỉnh và phân tích mỗi lần không giảm xuống
+Nếu không thể chuẩn hóa ở 2~3 dự án thì đánh giá lại dưới dạng hình thức gia công (nhận thầu)
+
+12
+14 / 15
+
+=== [Hình ảnh: 15_15.png] ===
+SPORTS RETAIL RADAR & GLOBAL RETAIL RADAR
+
+Bấm vào đây nếu giao diện bị lỗi hiển thị Chuyển sang chế độ toàn màn hình Đóng
+
+---
+
+DATACOM growth engine
+
+Q&A
+
+# Các ý kiến phản biện giả định trong khâu thẩm định
+
+Dùng nhà bán buôn (đại lý) thì không tốt hơn sao?
+Logistics và đàm phán bán lẻ là thế mạnh của nhà bán buôn. Chúng tôi tập trung vào thiết kế kiểm chứng cửa hàng thực tế và học hỏi.
+Đồng thuận vai trò giữa nhà bán buôn và bán lẻ
+
+Nhà sản xuất có chịu trả tiền không?
+Đề xuất như một chi phí phán đoán trước khi phân phối toàn quốc, và xác nhận thông qua hợp đồng thực tế.
+Ý định trả phí / Trả lời dự toán
+
+Tại sao lại là Datacom?
+Có thể bắt đầu quy mô nhỏ bằng cách tận dụng các điểm tiếp xúc bán lẻ hiện có và phân tích POS.
+Tên cụ thể các ứng viên hợp tác và sự cho phép
+
+Có khác gì công ty tư vấn không?
+Giai đoạn đầu là dạng nhận thầu. Chỉ thương mại hóa khi có thể chuẩn hóa quy trình và thành quả.
+Công sức và lợi nhuận gộp từ dự án thứ 2
+
+Tổn thất khi thất bại là gì?
+Dừng lại ở mức tối đa là khoản đầu tư trước khi ký hợp đồng. Không nắm giữ hàng nhập khẩu hay hàng tồn kho.
+Ngân sách đã phê duyệt và phân định trách nhiệm
+
+13
+15 / 15

@@ -1,0 +1,136 @@
+=== [Hình ảnh: 1_6.png] ===
+Ứng dụng tìm kiếm vị trí sản phẩm xuyên suốt các siêu thị trên toàn quốc
+Trường hợp hiển thị bị lỗi, hãy bấm vào đây Chuyển sang chế độ toàn màn hình Đóng
+Ẩn danh sách
+Giải quyết vấn đề "Hàng hóa đó đang ở đâu?"
+Ứng dụng tìm kiếm vị trí sản phẩm xuyên suốt các siêu thị trên toàn quốc
+1 / 6
+
+=== [Hình ảnh: 2_6.png] ===
+Ứng dụng tìm kiếm vị trí sản phẩm xuyên suốt các siêu thị trên toàn quốc
+Trường hợp hiển thị bị lỗi, hãy bấm vào đây Chuyển sang chế độ toàn màn hình Đóng
+Ẩn danh sách
+# Thực trạng và Thách thức
+
+Không biết sản phẩm muốn mua nằm ở cửa hàng nào
+- Có thể tìm kiếm sản phẩm trên ứng dụng và trang web của từng công ty, nhưng không thể tra cứu xuyên suốt các cửa hàng
+  - Mất công tra cứu từng công ty một
+  - Cửa hàng bán sản phẩm tìm mãi mới thấy chưa chắc đã nằm trong phạm vi có thể đến được
+- Mua sắm trực tuyến rất tiện lợi, nhưng không thể đáp ứng nhu cầu "muốn có ngay lập tức"
+  - Có độ trễ thời gian cho đến khi giao hàng, không đáp ứng được nhu cầu tức thời
+
+→ Sẽ cực kỳ tiện lợi nếu có thể tra cứu tổng hợp xuyên suốt nhiều cửa hàng
+
+2 / 6
+
+=== [Hình ảnh: 3_6.png] ===
+Ứng dụng tìm kiếm vị trí sản phẩm xuyên suốt các siêu thị trên toàn quốc
+Trường hợp hiển thị bị lỗi, hãy bấm vào đây Chuyển sang chế độ toàn màn hình Đóng
+Ẩn danh sách
+# Nội dung đề xuất
+
+Ứng dụng tìm kiếm theo Vùng × Tên sản phẩm và hiển thị các cửa hàng có bán sản phẩm đó trên bản đồ
+
+① Chỉ định khu vực
+Khu vực xung quanh vị trí hiện tại hoặc khu vực ở xa
+
+② Tìm kiếm theo tên sản phẩm
+Nhập tên sản phẩm muốn mua
+
+③ Lựa chọn trên bản đồ
+Ghim sẽ được cắm tại các cửa hàng có lịch sử kinh doanh sản phẩm
+
+④ Xác nhận chi tiết
+Hiển thị khoảng cách và giờ mở cửa
+
+# Cơ chế: Xác định lịch sử kinh doanh bằng dữ liệu POS
+- Việc lấy dữ liệu tồn kho theo thời gian thực rất khó, nhưng sẽ phân tích dữ liệu POS (thành tích bán hàng gần nhất) của các cửa hàng thành viên để phán đoán "có hàng"
+  - Đây là mức độ tham khảo dựa trên thành tích, sẽ hiển thị rõ ràng trên giao diện (UI) rằng không đảm bảo về số lượng tồn kho
+
+# Mô hình doanh nghiệp
+
+Doanh nghiệp (Cửa hàng thành viên):
+Phí đăng ký dịch vụ - Khoản chi phí tương ứng với quảng cáo thu hút khách hàng
+
+Người tiêu dùng:
+Quảng cáo trong ứng dụng - Cung cấp cơ bản miễn phí
+
+3 / 6
+
+=== [Hình ảnh: 4_6.png] ===
+Ứng dụng tìm kiếm vị trí sản phẩm xuyên suốt các siêu thị trên toàn quốc
+Trường hợp hiển thị bị lỗi, hãy bấm vào đây Chuyển sang chế độ toàn màn hình Đóng
+Ẩn danh sách
+# Lợi ích đối với người tiêu dùng
+
+01 Từ những món đồ cần gấp cho đến đồ ngách, độc lạ
+Vấn đề gặp phải
+Không muốn di chuyển vòng quanh khắp nơi để tìm kiếm những sản phẩm cần thiết ngay lập tức hoặc các sản phẩm hiếm
+Giải pháp bằng ứng dụng
+Chỉ cần nhập tên sản phẩm là các cửa hàng có bán sẽ hiển thị trên bản đồ, không cần phải đi vòng quanh các cửa hàng để tìm kiếm
+
+02 Muốn dùng thử ngay các sản phẩm đang gây sốt trên SNS
+Vấn đề gặp phải
+Vì các sản phẩm thịnh hành có thông tin lan truyền rất nhanh nên phải nhanh chóng sở hữu chúng
+Giải pháp bằng ứng dụng
+Tìm thấy cửa hàng bán gần nhất ngay trong ngày sản phẩm đó trở thành chủ đề hot, trải nghiệm xu hướng nhanh chóng nhất
+
+03 Tìm kiếm sản phẩm ở vùng đất xa lạ
+Vấn đề gặp phải
+Ngay sau khi chuyển đến, đi du lịch hay công tác ở nơi xa, không biết có những cửa hàng nào và ở đâu
+Giải pháp bằng ứng dụng
+Có thể xác nhận đồng loạt các cửa hàng bán gần đó, giúp việc mua sắm ở những khu vực không quen thuộc trở nên dễ dàng
+
+4 / 6
+
+=== [Hình ảnh: 5_6.png] ===
+Ứng dụng tìm kiếm vị trí sản phẩm xuyên suốt các siêu thị trên toàn quốc
+Trường hợp hiển thị bị lỗi, hãy bấm vào đây Chuyển sang chế độ toàn màn hình Đóng
+Ẩn danh sách
+# Lợi ích đối với cửa hàng
+
+1 Thu hút khách hàng mới
+- Những người trước đây chưa biết đến cửa hàng sẽ ghé thăm với tư cách là "cửa hàng có bán sản phẩm mình muốn"
+- Chức năng chỉ định khu vực sẽ tạo cơ hội cho những khách hàng ở xa cửa hàng đến mua sắm
+
+2 Kích thích mua sắm kết hợp (mua kèm)
+- Khách hàng đến mua sản phẩm mục tiêu sẽ mua kèm thêm các sản phẩm khác trong cửa hàng
+- Dẫn đến việc nâng cao giá trị đơn hàng trên mỗi khách hàng
+
+3 Dự báo nhu cầu dựa trên dữ liệu tìm kiếm
+Cung cấp báo cáo "khu vực nào, tìm kiếm món gì, vào thời điểm nào"
+Làm tài liệu tham khảo cho việc nhập hàng và tạo quầy hàng
+
+Tối ưu hóa việc nhập hàng và danh mục sản phẩm
+Nắm bắt các sản phẩm đang được thị trường địa phương tìm kiếm
+
+Giảm thiểu tình trạng hết hàng và tồn đọng hàng bán ế
+Đọc trước làn sóng nhu cầu, đồng thời kìm hãm tổn thất do hủy hàng
+
+Phát hiện "sản phẩm đang được tìm kiếm"
+Hiểu rõ những sản phẩm dù chưa kinh doanh nhưng vẫn có nhu cầu
+
+5 / 6
+
+=== [Hình ảnh: 6_6.png] ===
+Ứng dụng tìm kiếm vị trí sản phẩm xuyên suốt các siêu thị trên toàn quốc
+Trường hợp hiển thị bị lỗi, hãy bấm vào đây Chuyển sang chế độ toàn màn hình Đóng
+Ẩn danh sách
+# Định hướng tương lai
+
+① Mở rộng ngành hàng mục tiêu
+Siêu thị
+Mở rộng sang Cửa hàng nội thất, Cửa hàng điện máy gia dụng,
+Mở rộng sang Cửa hàng ăn uống, v.v.
+
+② Nâng cao độ nhận diện thương hiệu
+- Được sử dụng hàng ngày như một dịch vụ dành cho người tiêu dùng
+- Tên tuổi không chỉ vươn tới các doanh nghiệp đối tác mà còn đến được với đại đa số công chúng
+→ Nâng cao độ nhận diện của "DataCom" ra ngoài phạm vi doanh nghiệp
+
+③ Đáp ứng nhu cầu khách du lịch nước ngoài (Inbound) thông qua hỗ trợ đa ngôn ngữ
+- Việc tìm hiểu "mua cái gì ở đâu" tại một quốc gia xa lạ là rất khó
+- Hỗ trợ mua sắm cho khách du lịch nước ngoài đến Nhật Bản bằng tính năng đa ngôn ngữ
+→ Mở rộng đối tượng sử dụng từ trong nước Nhật ra toàn thế giới
+
+6 / 6
