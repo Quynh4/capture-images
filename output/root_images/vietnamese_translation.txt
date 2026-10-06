@@ -1,0 +1,307 @@
+=== [Hình ảnh: 1_7.png] ===
+Phát triển tính năng tùy chỉnh chuyên ngành cho ngành bán lẻ kết hợp liên kết gói phần mềm của công ty & Cẩm nang bán lẻ
+
+Nếu hiển thị bị lỗi, vui lòng xem tại đây | Chuyển sang chế độ toàn màn hình | Đóng
+
+・Ẩn danh sách
+
+Cuộc họp toàn thể giai đoạn cuối kỳ thứ 33: Kế hoạch động lực tăng trưởng (Khung dành cho người thách thức)
+
+Phát triển tính năng tùy chỉnh chuyên ngành cho ngành bán lẻ
+& Liên kết hệ thống quản lý & phân tích khách hàng
+
+Tháng 9 năm 2026 - Nhóm PV - Mizuki Kudo
+
+1 / 7
+
+=== [Hình ảnh: 2_7.png] ===
+Phát triển tính năng tùy chỉnh chuyên ngành cho ngành bán lẻ kết hợp liên kết gói phần mềm của công ty & Cẩm nang bán lẻ
+
+Nếu hiển thị bị lỗi, vui lòng xem tại đây | Chuyển sang chế độ toàn màn hình | Đóng
+
+・Ẩn danh sách
+
+Bối cảnh của vấn đề và
+Nội dung đề xuất
+
+■ Bối cảnh
+Trước đây, chúng tôi đã nhận được rất nhiều yêu cầu từ các nhà bán lẻ khác nhau
+về các nghiệp vụ nằm ngoài phạm vi gói phần mềm (package) của công ty như:
+quản lý thông tin thú cưng và dịch vụ cắt tỉa (grooming), đăng ký thông tin bảo dưỡng ô tô,
+quản lý khách hàng không phải hội viên thẻ, quản lý đặt lịch tại cửa hàng, v.v.
+Tuy nhiên, các yêu cầu này hiếm khi được chuyển hóa thành dự án thực tế.
+
+■ Nội dung đề xuất
+Đề xuất lần này là việc phát triển các tính năng tùy chỉnh theo chuyên ngành và hệ thống phụ (sub-system),
+nhằm đáp ứng một cách nghiêm túc các nhu cầu thực tế tại hiện trường này.
+
+2 / 7
+
+=== [Hình ảnh: 3_7.png] ===
+Phát triển tính năng tùy chỉnh chuyên ngành cho ngành bán lẻ kết hợp liên kết gói phần mềm của công ty & Cẩm nang bán lẻ
+
+Nếu hiển thị bị lỗi, vui lòng xem tại đây | Chuyển sang chế độ toàn màn hình | Đóng
+
+・Ẩn danh sách
+
+Tiến thêm một bước
+ra ngoài phạm vi nghiệp vụ
+mục tiêu hiện tại của công ty
+
+Nghiệp vụ nằm ngoài phạm vi
+gói phần mềm của công ty
+
+Quản lý thông tin thú cưng & cắt tỉa
+Yêu cầu trước đây: Yêu cầu màn hình quản lý thú cưng từ Ayahadio
+
+Quản lý thông tin bảo dưỡng ô tô
+Yêu cầu trước đây: Yêu cầu quản lý thông tin xe bảo dưỡng từ Kanseki
+
+Quản lý khách hàng không phải hội viên thẻ (khách ngoại thương, cổ đông, khách hàng ngành nghề khác)
+Yêu cầu trước đây: Yamanaka, Maruhiro Department Store, Encho
+
+Quản lý đặt lịch tại cửa hàng
+Yêu cầu trước đây: Yamanaka
+
+Quản lý hội viên liên quan đến nghiệp vụ cải tạo Home Center (HC)
+Yêu cầu trước đây: Không có
+
+Nghiệp vụ mục tiêu
+của gói phần mềm
+của công ty
+(Bộ phận bán hàng)
+
+Mục tiêu lần này chính là phần này!
+
+3 / 7
+
+=== [Hình ảnh: 4_7.png] ===
+Phát triển tính năng tùy chỉnh chuyên ngành cho ngành bán lẻ kết hợp liên kết gói phần mềm của công ty & Cẩm nang bán lẻ
+
+Nếu hiển thị bị lỗi, vui lòng xem tại đây | Chuyển sang chế độ toàn màn hình | Đóng
+
+・Ẩn danh sách
+
+Giao diện triển khai dự kiến
+
+Quản lý thông tin thú cưng & cắt tỉa
+
+Quản lý thông tin bảo dưỡng ô tô
+
+Màn hình tổng hợp thông tin hồ sơ thú cưng (Pet Karte)
+1: Trung tâm thú cưng Aoba Kita
+
+Màn hình chỉnh sửa thông tin bảo dưỡng xe
+1: Trung tâm ô tô Miyagi Chuo
+
+Thông tin cơ bản
+Lịch sử cắt tỉa
+Lịch sử lưu trú khách sạn
+Lịch sử mua hàng
+Vắc-xin & Tình trạng sức khỏe
+Tìm kiếm nhanh
+
+Furigana của thú cưng
+Tên thú cưng
+Pochi
+Loài
+Chó
+Giống
+Chó Shiba
+Màu lông
+Shiba đỏ
+Ngày sinh
+08/04/2018
+Triệt sản / Ngừa thai
+◎ Chưa thực hiện
+Địa chỉ
+Địa chỉ chủ nuôi
+1-chome Honcho, khu Aoba, thành phố Sendai, tỉnh Miyagi
+Thông tin liên hệ chủ nuôi
+090-9999-9999
+
+ID thú cưng: P-000123
+ID giống: C-001
+Đăng ký hình ảnh thú cưng
+Số hồ sơ (Karte): 001
+Ngày ghé cửa hàng
+Phân loại sử dụng
+Nội dung chi tiết
+Nhân viên phụ trách
+Trạng thái thanh toán
+2003/04/08
+Cắt tỉa (Trimming)
+Tắm & Cắt tỉa toàn thân
+Cửa hàng Aoba Kita 14
+Đã thanh toán
+
+Cân nặng
+8.5 kg
+Tuổi
+6 tuổi
+● Đã thực hiện | Ngày phẫu thuật triệt sản:
+ID Microchip
+900xxxxxxx
+Ghi chú
+08/04/2018: Đón về từ nhà nhân giống (breeder).
+10/10/2022: Cắt tỉa toàn thân do lông bị rối nhiều.
+01/12/2023: Tắm định kỳ & cắt tỉa một phần; thể trạng khỏe mạnh khi bảo hành.
+03/01/2024: Lưu trú khách sạn 3 đêm 4 ngày (ăn hết suất, đi vệ sinh bình thường, hoạt bát khi đi dạo).
+05/02/2025: Mua thức ăn (Supremo 3kg).
+
+Ngày ghé cửa hàng lần đầu
+08/04/2018
+Ngày ghé cửa hàng lần tới
+01/04/2004
+Điểm tích lũy còn lại
+0
+Kết thúc
+In thông tin thú cưng | Đăng ký đặt lịch | Đăng ký mới | Lịch sử hình ảnh | Cập nhật | Xử lý thanh toán | Xóa thông tin | Hủy
+
+Thông tin cơ bản
+Lịch sử bảo dưỡng
+Lịch sử thay thế phụ tùng
+Thông tin bảo hiểm & đăng kiểm (Shaken)
+Lịch trình kiểm tra
+Tìm kiếm nhanh
+
+Số đăng ký: 001
+Ngày bảo dưỡng | Phân loại sử dụng | Nội dung chi tiết | Cơ khí viên phụ trách | Trạng thái thanh toán
+Số khung: V-000123
+ID khách hàng: C-001
+08/04/2003 | Đăng kiểm (Shaken) | Kiểm tra định kỳ 24 tháng theo luật định | Cơ khí viên Sato (14) | Đã thanh toán
+10/10/2022 | Thay dầu (Oil change) | Thay dầu động cơ, thay lọc dầu | Cơ khí viên Sato (14) | Đã thanh toán
+01/12/2003 | Sửa chữa | Thay má phanh | Cơ khí viên Sato (14) | Đã thanh toán
+05/02/2022 | Sửa chữa | Sửa chữa và thay thế | Cơ khí viên Sato (14) | Đã thanh toán
+
+Furigana của xe
+Tên xe
+Toyota Prius
+Loài
+Xe du lịch, xe tải
+Dòng xe
+S-Touring
+Loại xe
+S-Touring
+Cấp độ (Grade)
+S-Touring
+Màu thân xe
+Super White II
+Ngày sinh (Ngày đăng ký lần đầu)
+Quãng đường đã đi
+65,000 km
+Triệt sản / Ngừa thai
+◎ Chưa thực hiện
+Mã động cơ
+2ZR-FXE
+ID Microchip
+Ngày phẫu thuật triệt sản:
+Địa chỉ đỗ xe (Shako shomei)
+Hệ thống dẫn động
+FF, 4WD
+Biển số đăng ký
+Sendai 301 A 1234
+Địa chỉ
+Địa chỉ chủ nuôi
+1-chome Honcho, khu Aoba, thành phố Sendai, tỉnh Miyagi
+Thông tin liên hệ chủ nuôi
+Thông tin liên hệ chủ sở hữu
+090-9999-9999
+Ghi chú
+08/04/2018: Đăng ký xe mới & bàn giao xe.
+10/10/2022: Kiểm tra 12 tháng, thay dầu.
+01/12/2003: Lắp lốp mùa đông (studless), căn chỉnh góc đặt bánh xe (wheel alignment).
+03/01/2024: Điện áp ắc-quy giảm, tiến hành thay thế.
+05/02/2025: Thay lọc điều hòa, thay cao su gạt mưa.
+
+Đăng ký hình ảnh xe
+
+Ngày ghé cửa hàng lần đầu
+Ngày đăng ký lần đầu
+Ngày ghé cửa hàng lần tới
+Ngày dự kiến đăng kiểm lần tới
+Điểm tích lũy còn lại
+0
+Kết thúc
+In thông tin thú cưng | Đăng ký đặt lịch bảo dưỡng | Đăng ký mới | Lịch sử hình ảnh | Cập nhật | Xử lý thanh toán | Xóa thông tin | Hủy
+
+・Dự kiến không chỉ hỗ trợ PC mà còn hỗ trợ xem/đăng ký trên máy tính bảng (Phát triển màn hình WEB chuyên dùng trong mạng nội bộ của khách hàng)
+※ Do Kudo đã tự tạo PV hiện có bằng AI nên giao diện trông giống như một bản PV (Prototyping).
+
+4 / 7
+
+=== [Hình ảnh: 5_7.png] ===
+Phát triển tính năng tùy chỉnh chuyên ngành cho ngành bán lẻ kết hợp liên kết gói phần mềm của công ty & Cẩm nang bán lẻ
+
+Nếu hiển thị bị lỗi, vui lòng xem tại đây | Chuyển sang chế độ toàn màn hình | Đóng
+
+・Ẩn danh sách
+
+Phương án xây dựng
+
+■ Phương án xây dựng
+① Phát triển mới sử dụng AI làm màn hình cho WEB / Máy tính bảng
+- Môi trường phát triển dễ dàng hơn so với thời điểm có các yêu cầu trong quá khứ.
+- Có thể dùng làm hệ thống nhỏ (small system) để nhân viên trẻ hoặc nhân viên mới tích lũy kinh nghiệm.
+
+② Phát triển như một tính năng tùy chọn (option) của gói phần mềm hiện có
+- Nếu liên quan đến thông tin hội viên thì việc dùng PV sẽ thuận lợi hơn.
+- Nhược điểm là do đây là ứng dụng Windows Client nên tính linh hoạt không cao.
+
+5 / 7
+
+=== [Hình ảnh: 6_7.png] ===
+Phát triển tính năng tùy chỉnh chuyên ngành cho ngành bán lẻ kết hợp liên kết gói phần mềm của công ty & Cẩm nang bán lẻ
+
+Nếu hiển thị bị lỗi, vui lòng xem tại đây | Chuyển sang chế độ toàn màn hình | Đóng
+
+・Ẩn danh sách
+
+Tiến xa hơn từ đó
+Đến Quản lý khách hàng & Phân tích
+
+Khách hàng
+
+Phân tích
+
+Thúc đẩy bán hàng (Promoting)
+
+Thành quả
+
+Gắn thuộc tính khách hàng
+
+Trích xuất & Liên kết kết quả phân tích
+
+Tiến hành thúc đẩy bán hàng sử dụng kết quả phân tích
+
+Kiểm chứng kết quả, Phân tích bằng AI
+
+Nếu có thể liên kết với số thẻ, chúng ta có thể đưa ra đề xuất toàn diện như: tập trung thông tin của từng loại hình kinh doanh vào hệ thống quản lý khách hàng, đồng thời liên kết các thuộc tính sang CJ (Customer Journey) hoặc RV để xây dựng hệ thống.
+Mục tiêu đáng chú ý là đề xuất cho các mô hình kinh doanh do chính công ty quản lý (như Cainz Pet) thay vì các cửa hàng thuê mặt bằng do doanh nghiệp khác quản lý!
+
+6 / 7
+
+=== [Hình ảnh: 7_7.png] ===
+Phát triển tính năng tùy chỉnh chuyên ngành cho ngành bán lẻ kết hợp liên kết gói phần mềm của công ty & Cẩm nang bán lẻ
+
+Nếu hiển thị bị lỗi, vui lòng xem tại đây
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+< Ẩn danh sách
+
+Thách thức và Tóm tắt
+
+■ Thách thức
+- Cần phải thấu hiểu các mô hình kinh doanh và nghiệp vụ mới, điều này khá vất vả.
+- Ngoài việc phải phát triển phù hợp với từng nghiệp vụ, khả năng cao sẽ phát sinh các yêu cầu tùy chỉnh cho từng nhà bán lẻ.
+- Cũng chính vì những lý do trên, mô hình này khó mang lại doanh thu lớn một cách nhanh chóng, tuy nhiên, nhờ đi sâu vào khách hàng ở mảng nghiệp vụ & phân tích, cấu trúc này sẽ giúp khách hàng khó lòng rời bỏ hệ thống (giảm tỷ lệ rời bỏ).
+
+Thực tế có rất nhiều khó khăn như vấn đề thử thách hay quá trình phát triển, nhưng:
+Thỉnh thoảng, tôi muốn làm một điều gì đó khác biệt so với thường lệ!
+Tôi muốn mở rộng phạm vi ngành nghề để đưa ra đề xuất!
+Vì tôi thích chó nên tôi muốn hướng tới mảng nghiệp vụ thú cưng!
+Nội dung đề xuất lần này chính là mang lại những niềm vui và sự hứng khởi như vậy.
+
+7/7
+--------------------

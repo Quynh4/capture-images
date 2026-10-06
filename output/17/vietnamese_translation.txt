@@ -1,0 +1,116 @@
+=== [Hình ảnh: 1_4.png] ===
+Đề án kinh doanh AI thực tế (Physical AI)
+
+Đề xuất kinh doanh mới (Dành cho việc thẩm định tổng quan)
+Công ty Cổ phần Datacom - Tháng 9 năm 2026
+# Đề án kinh doanh AI thực tế dành cho cửa hàng SM (Supermarket) & GMS (General Merchandise Store) – Quan sát, Đánh giá, Vận hành –
+Nắm bắt "thực trạng" quầy hàng bằng camera AI, lấy mặt hàng thức ăn chế biến sẵn (Delica) làm điểm khởi đầu, kết hợp với D-PLAN để khép kín vòng lặp nghiệp vụ cửa hàng.
+
+1. **Tại sao lại là thời điểm này?**
+Do sự bùng nổ của AI tạo mã (Code-generation AI), đơn giá và khối lượng công việc của việc phát triển phần mềm theo hợp đồng sẽ bị nén lại về mặt cấu trúc (Theo Gartner: Đến năm 2029, 60% tổ chức sẽ tiêu chuẩn hóa các đội ngũ phát triển quy mô nhỏ / Lượng doanh nghiệp dịch vụ thông tin phá sản đạt mức cao nhất trong 10 năm qua). Ngược lại, trọng tâm của AI đang dịch chuyển từ "thế giới số" sang "thế giới vật lý", và chính phủ đặt mục tiêu giành lấy thị trường trị giá 20 nghìn tỷ Yên vào năm 2040 với robot AI. Các doanh nghiệp không có kiến thức chuyên môn về AI thực tế sẽ bị thu hẹp thị trường có thể đáp ứng.
+
+2. **Mục đích cốt lõi**
+Tích lũy kiến thức chuyên môn về AI thực tế bên trong nội bộ công ty. Lợi nhuận ban đầu của riêng dự án không phải là mục đích, mà việc thực nghiệm được định vị là phương tiện để thu thập bí quyết "vận hành AI tại hiện trường". Kiến thức này sẽ ở lại với công ty bất kể sự thành bại của dự án.
+
+3. **Sẽ làm gì?**
+Bắt đầu từ dịch vụ đơn lẻ sử dụng camera AI tại các cửa hàng khách hàng chủ lực là SM và GMS để thu thập lượng hàng tồn kho trên kệ, nhịp độ bán hàng và số lượng khách hàng. Lấy bộ phận thức ăn chế biến sẵn – nơi mang lại hiệu quả lớn nhất – làm điểm khởi đầu, liên kết với công cụ đánh giá thức ăn chế biến sẵn (ứng cử viên số 1: D-PLAN nội bộ) để vận hành thông qua việc điều chỉnh lượng sản xuất trong ngày, tối ưu hóa việc giảm giá và chỉ thị công việc.
+
+4. **Tại sao có thể thắng?**
+Camera, nhãn giá điện tử (ESL) và robot có thể sử dụng "linh kiện" của các công ty khác. Datacom có hiện trường của khách hàng hiện tại, thành tích thực tế triển khai tích hợp hệ thống cốt lõi/POS, sự thấu hiểu về nghiệp vụ thức ăn chế biến sẵn, và nếu nhận được sự hợp tác từ đội ngũ phát triển D-PLAN, đây sẽ là sự kết hợp chưa từng có tiền lệ tại Nhật Bản: "Thực trạng quầy hàng × Kế hoạch sản xuất theo khung giờ". Đứng ở "phía đưa ra chỉ thị" chứ không phải phía bán linh kiện.
+
+5. **Những vấn đề cần quyết định**
+① Phê duyệt làm chủ đề kinh doanh mới (Mục đích cốt lõi = Tích lũy kiến thức chuyên môn) ② Ngân sách thực nghiệm năm đầu tiên: Trong phạm vi 10 triệu Yên chưa bao gồm chi phí nhân sự (dự tính khoảng 900 triệu Yên, từ tháng 10/2026 đến tháng 9/2027, áp dụng cho bộ phận Delica tại 1~2 cửa hàng khách hàng hiện tại) ③ Thiết lập cơ chế nhân sự chuyên trách và kiêm nhiệm từ 3~4 người, đồng thời bắt đầu thảo luận với đội ngũ phát triển D-PLAN (bao gồm cả phương hướng ghi nhận doanh thu từ tùy chọn tích hợp vào mảng kinh doanh D-PLAN).
+
+Nguồn: Chi tiết xin tham khảo tài liệu chính (25 trang). Nguồn của các số liệu được ghi ở cuối phần chính của tài liệu.
+1 / 4
+1
+
+=== [Hình ảnh: 2_4.png] ===
+Đề án kinh doanh AI thực tế (Physical AI)
+
+# Cấu trúc dự án: Thông tin → Thức ăn chế biến sẵn → Tự thành lập độc lập → Tối đa hóa bằng cách liên kết với D-PLAN
+Ngay cả khi đứng độc lập cũng có thể thành lập và tích lũy được kiến thức. Nếu liên kết, hiệu quả mang lại cho khách hàng, tính khó sao chép và doanh thu của D-PLAN sẽ cùng tăng trưởng.
+
+* **Thông tin thu được từ camera AI**
+  Lượng hàng tồn kho trên kệ, nhịp độ bán hàng, số lượng khách, luồng di chuyển, trạng thái nhãn giá. "Thực trạng quầy hàng" mà POS không thể nắm bắt. Trong đó, lượng hàng tồn kho trên kệ và nhịp độ bán hàng có thể thay đổi "kế hoạch sản xuất và giảm giá từ nay về sau trong ngày" theo từng phút.
+* **Thức ăn chế biến sẵn là lĩnh vực có thể tối đa hóa hiệu quả**
+  Việc "Thông tin → Đánh giá → Hành động" được khép kín bên trong một cửa hàng đối với hoạt động sản xuất tại chỗ, với tỷ suất lợi nhuận gộp là 38.5% – mức cao nhất trong tất cả các bộ phận, và thất thoát do hủy hàng là lớn nhất. Giá trị của việc biết được thực trạng quầy hàng sẽ biến đổi thành tiền nhanh nhất và lớn nhất.
+* **Được thành lập như một dự án kinh doanh độc lập, tuy nhiên vẫn có điểm yếu**
+  Sẽ tạo ra sự khác biệt nhờ hiện trường của khách hàng hiện tại, thành tích tích hợp POS cốt lõi và sự thấu hiểu nghiệp vụ thức ăn chế biến sẵn, nhưng nếu đứng độc lập thì sẽ cạnh tranh trực diện với các nhà cung cấp camera AI và tính khó sao chép sẽ ở mức hạn chế. Hiệu quả chỉ nằm trong phạm vi "nhìn thấy cảnh báo rồi con người tự hành động".
+* **D-PLAN là công cụ đánh giá tối ưu nhất**
+  Là một sản phẩm mạnh mẽ đã sở hữu sẵn kế hoạch sản xuất theo khung giờ, quy trình xuyên suốt từ kế hoạch → đặt hàng → chỉ thị công việc, và kết nối POS cốt lõi. Sự kết hợp này tạo ra sự khác biệt chưa từng có tại Nhật Bản là "Thực trạng quầy hàng × Kế hoạch sản xuất", đồng thời các tính năng và doanh thu của chính D-PLAN cũng sẽ tăng trưởng.
+
+| Phase 1: Camera AI độc lập | Phase 2: Liên kết D-PLAN (Liên kết chuẩn) |
+| :--- | :--- |
+| **Tính năng cung cấp** | Trực quan hóa lượng hàng tồn kho trên kệ, nhịp độ bán hàng, số lượng khách; Cảnh báo và đề xuất thời điểm hết hàng/giảm giá (Con người tự đánh giá và hành động) | Điều chỉnh động lượng sản xuất theo khung giờ ứng với nhịp độ bán hàng; Tính toán thời gian và mức độ giảm giá; Tự động phản ánh lên nhãn giá điện tử và chỉ thị công việc |
+| **Hiệu quả khách hàng (1 cửa hàng/năm) / Giá** | Khoảng 100 ~ 150 triệu Yên (giả định) / Chi phí ban đầu 1.5 triệu Yên + Phí hàng tháng 50 nghìn Yên | Khoảng 200 ~ 500 triệu Yên (tham khảo giá trị thực nghiệm) / + Phí hàng tháng 50 nghìn Yên (đầy đủ tính năng) |
+| **Tính khó sao chép & Doanh thu** | Hạn chế / Phí camera hàng tháng + Triển khai ban đầu thuộc về Datacom | Cao / Phí tùy chọn liên kết hàng tháng được ghi nhận vào mảng kinh doanh D-PLAN. Liên kết riêng (hệ thống cốt lõi của khách hàng...) là tính năng cơ bản, báo giá riêng |
+
+Việc thảo luận với đội ngũ phát triển D-PLAN sẽ bắt đầu sau khi đề xuất này được phê duyệt (tại thời điểm hiện tại chưa đi đến thống nhất). Bắt đầu bằng hình thức làm cho phía camera hoạt động độc lập trước, truyền thông tin sang D-PLAN thông qua API liên kết; phạm vi và thời điểm cải tiến phần thân chính của D-PLAN sẽ được quyết định bằng cách tôn trọng lộ trình và tải trọng công việc của đội ngũ phát triển.
+
+Nguồn: Giá trị hiệu quả là giá trị giả định. Khi liên kết, tham khảo kết quả thực nghiệm Valor (giảm thất thoát -13%, tăng doanh thu +2.9%, tháng 8/2026), v.v.
+2 / 4
+2
+
+=== [Hình ảnh: 3_4.png] ===
+Đề án kinh doanh AI thực tế (Physical AI)
+
+# Kế hoạch thực nghiệm năm đầu tiên, Ngân sách và Tiêu chí thành công
+Thực hiện tại bộ phận Delica của 1~2 cửa hàng khách hàng hiện tại, từ tháng 10/2026 đến tháng 9/2027. Trong phạm vi 10 triệu Yên chưa bao gồm chi phí nhân sự.
+
+* 1. 2026.10 ~ 11 **Lựa chọn khách hàng & Thống nhất** Chọn 1~2 cửa hàng từ khách hàng hiện tại (ưu tiên nơi đã cài đặt D-PLAN). Thống nhất trước các giá trị chuẩn.
+* 2. 2026.12 ~ 27.2 **Lắp đặt & Thu thập dữ liệu** 4~6 camera/cửa hàng và thiết bị biên (edge device). Xây dựng mô hình nhận diện.
+* 3. 2027.2 ~ 3 **Trực quan hóa & Cảnh báo** Đánh giá độ chính xác và hiệu quả của dịch vụ đơn lẻ Phase 1.
+* 4. 2027.3 ~ 5 **Liên kết D-PLAN** Thảo luận và thiết kế phương thức liên kết. Bắt đầu từ "Đề xuất → Con người phê duyệt".
+* 5. 2027.5 ~ 7 **Liên kết thực thi** Phản ánh lên chỉ thị công việc trên máy tính bảng, nhãn giá điện tử (giới hạn cho quầy thức ăn chế biến sẵn).
+* 6. 2027.8 ~ 9 **Đánh giá & Phán đoán** Xác định hiệu quả, quyết định thương mại hóa và đầu tư vòng 2.
+
+| Hạng mục ngân sách | Vạn Yên |
+| :--- | :--- |
+| Thiết bị camera & thiết bị biên (12 camera, 2 thiết bị đầu cuối) | 170 |
+| Lắp đặt & thi công (2 cửa hàng) | 80 |
+| Xây dựng mô hình AI hình ảnh (Gắn nhãn dữ liệu - annotation, GPU) | 200 |
+| Nhãn giá điện tử (Chỉ giới hạn khu vực thức ăn chế biến sẵn - 2 cửa hàng) | 160 |
+| Chuyên gia bên ngoài & Đối tác (Cố vấn 80 nghìn x 12 tháng, v.v.) | 120 |
+| Đo lường hiệu quả & Khảo sát | 70 |
+| Chi phí dự phòng (khoảng 10%) | 100 |
+| **Tổng cộng (Chi phí nhân sự nằm ngoài hạn mức này)** | **900** |
+
+**Tiêu chí thành công (Bản thảo)**
+Tại bộ phận thức ăn chế biến sẵn của cửa hàng đối tượng: ① Giảm từ 10% trở lên số tiền thất thoát do hủy hàng ② Giảm tình trạng hết hàng (khung giờ bị bán sạch) ③ Cải thiện số tiền lợi nhuận gộp ④ Giảm thời gian làm việc cho kế hoạch sản xuất và thanh lý hàng. Bắt buộc phải đạt được ① và ③, đồng thời khách hàng mong muốn tiếp tục sử dụng có trả phí là điều kiện để thương mại hóa.
+
+**Triển vọng về hiệu quả khách hàng và doanh thu**
+Đối với dư địa cải thiện lợi nhuận gộp từ 100~150 triệu Yên/năm (đơn lẻ) lên 200~500 triệu Yên/năm (liên kết) cho mỗi cửa hàng, gánh nặng chi phí của khách hàng là 60~120 triệu Yên/năm và thu hồi vốn trong vòng dưới 1 năm. Tăng số lượng cửa hàng áp dụng từ 2 → 10 → 30 → 80 → 150 cửa hàng, đạt khoảng 260 triệu Yên/năm vào năm 2031 (trong đó 60 triệu Yên từ tùy chọn liên kết D-PLAN được ghi nhận vào mảng kinh doanh D-PLAN). Doanh thu năm, tỷ lệ thất thoát và tỷ lệ giảm thiểu là các giá trị giả định.
+
+Nguồn: Đơn giá thiết bị là mức tính toán sơ bộ dựa trên giá tham khảo thị trường, sẽ được sàng lọc kỹ sau khi nhận báo giá. Giá trị tham khảo hiệu quả dựa trên kết quả thực nghiệm công khai của Valor và Yamazawa.
+3 / 4
+3
+
+=== [Hình ảnh: 4_4.png] ===
+Đề án kinh doanh AI thực tế (Physical AI)
+
+# Lộ trình trung hạn, Rủi ro chính và Các vấn đề cần quyết định
+Làm cho từng giai đoạn có thể bán được dưới dạng độc lập, đồng thời tích lũy thành tích và kiến thức của giai đoạn tiếp theo. Khoản đầu tư có quy mô khác biệt lớn chỉ được thực hiện sau khi xem xét kết quả thực nghiệm.
+
+* Phase 1 Quan sát (Nửa cuối 2026 ~ Nửa đầu 2027): Trực quan hóa và cảnh báo bằng camera AI tại quầy thức ăn chế biến sẵn. Thành lập độc lập.
+* Phase 2 Đánh giá (Năm 2027): Liên kết với công cụ đánh giá. Liên kết chuẩn = D-PLAN, Liên kết riêng = Hệ thống cốt lõi của khách hàng, v.v.
+* Phase 3 Vận hành (Năm 2028 ~ 2029): Lấy chỉ thị công việc làm điểm khởi đầu, tích hợp AMR, robot bày biện thức ăn... với tư cách là "phía đưa ra chỉ thị".
+* Phase 4 Học hỏi (Năm 2029 ~ 30): Học tập xuyên suốt nhiều cửa hàng, mở rộng sang các ngành nghề kinh doanh khác với tư cách là nền tảng vận hành cửa hàng.
+
+Những yếu tố ở lại bất kể sự thành bại của dự án: Kiến thức về camera AI sẽ lan rộng sang phân tích luồng di chuyển trong cửa hàng, phân tích sơ đồ bố trí quầy hàng từ hành vi của khách hàng, tối ưu hóa bố trí nhân viên, mở rộng sang các bộ phận khác và ngành nghề kinh doanh khác. Các bước nhảy vọt như tích hợp robot vẫn đang ở giai đoạn hình thành ý tưởng, sẽ được quyết định riêng dựa trên kết quả thực nghiệm và xu hướng công nghệ.
+
+**Rủi ro chính và Biện pháp đối phó**
+* **Chưa xác định được công nghệ lõi (Tech stack)** Phần cứng do bên khác sản xuất và có nhiều ứng cử viên. Công ty chúng tôi tập trung vào tầng tích hợp và đánh giá, thiết bị có thể thay thế thông qua API.
+* **Không mang lại hiệu quả / Không tái tạo được** Bắt đầu từ "Đề xuất → Con người phê duyệt" để nâng cao độ chính xác. Thống nhất trước các tiêu chí thành công, quyết định rút lui hoặc tiếp tục vào tháng 9 năm 2027.
+* **Sự chậm trễ / Không thành công trong việc hợp tác với D-PLAN** Tiếp tục hoạt động kinh doanh và tích lũy kiến thức bằng dịch vụ đơn lẻ. Thảo luận bằng cách làm rõ lợi ích của việc hợp tác như ghi nhận doanh thu liên kết vào D-PLAN.
+* **Quyền riêng tư (Privacy)** Hình ảnh được xử lý bằng thiết bị biên (edge) tại cửa hàng và không gửi ra bên ngoài. Chỉ lưu trữ thông tin về quầy hàng và số lượng người mà không xác định danh tính cá nhân.
+
+**Những vấn đề cần quyết định**
+1. **Phê duyệt chủ đề kinh doanh mới** Định vị mục đích cốt lõi là "Tích lũy kiến thức chuyên môn về AI thực tế".
+2. **Phê duyệt ngân sách thực nghiệm năm đầu tiên** Trong phạm vi 10 triệu Yên chưa bao gồm chi phí nhân sự (dự tính khoảng 900 triệu Yên).
+3. **Phê duyệt cơ chế và phương hướng** Cơ chế nhân sự chuyên trách và kiêm nhiệm từ 3~4 người. Bắt đầu thảo luận với đội ngũ phát triển D-PLAN (bao gồm việc ghi nhận doanh thu tùy chọn liên kết vào D-PLAN).
+
+Nguồn: Mốc thời gian tiếp theo: Tháng 11 năm 2026 Thống nhất cửa hàng thực nghiệm / Tháng 3 năm 2027 Báo cáo vận hành Phase 1 / Tháng 9 năm 2027 Xác định hiệu quả và quyết định vòng đầu tư thứ 2.
+4 / 4
+4
+--------------------

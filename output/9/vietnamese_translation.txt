@@ -1,0 +1,265 @@
+=== [Hình ảnh: 1_11.png] ===
+Ứng dụng Bingo Sách
+
+Bấm vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+← Ẩn danh sách
+
+# Bingo Sách (Yomu Hon Bingo)
+
+Không chỉ cung cấp sách hay bánh kẹo, mà cung cấp chính khoảng thời gian thư giãn
+
+Cuộc thi đề xuất nội bộ ・ Tháng 9 năm 2026
+
+1 / 11
+
+=== [Hình ảnh: 2_11.png] ===
+Ứng dụng Bingo Sách
+
+Bấm vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+← Ẩn danh sách
+
+# Nuôi dưỡng điểm chạm giữa nhà bán lẻ và người tiêu dùng, thay vì doanh thu ngắn hạn
+
+Đề xuất này không nhằm mục đích tạo doanh thu từ những giao dịch mua lẻ tẻ
+Mục tiêu là nuôi dưỡng lâu dài điểm chạm giữa nhà bán lẻ và người tiêu dùng
+Do đó, lấy "thời gian thư giãn" làm trục chính chứ không phải "khoảnh khắc mua sắm"
+Xem việc điểm chạm được tạo ra lặp đi lặp lại chính là giá trị của doanh nghiệp
+
+Giao dịch mua lẻ tẻ
+○
+
+Điểm chạm xuất hiện lặp lại
+● - ● - ● - ●
+
+# Tạo ra lý do để khách hàng ghé đến, không phải nơi để bán hàng
+
+・Bingo Sách
+
+2 / 11
+
+=== [Hình ảnh: 3_11.png] ===
+Ứng dụng Bingo Sách
+
+Bấm vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+← Ẩn danh sách
+
+# Tóm tắt trong 3 dòng
+
+01 Ứng dụng sử dụng AI để hỏi sở thích của người dùng và đề xuất sách dưới dạng thẻ bingo 5x5
+
+02 Mỗi ô vuông là sự kết hợp giữa "chủ đề sách nên đọc" và "món ăn vặt đi kèm"
+
+03 Chuẩn bị 25 lựa chọn về khoảng thời gian thư giãn thông qua sự kết hợp giữa sách và bánh kẹo
+
+・Bingo Sách
+
+3 / 11
+
+=== [Hình ảnh: 4_11.png] ===
+Ứng dụng Bingo Sách
+
+Bấm vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+← Ẩn danh sách
+
+# Lý do sách không được đọc là do "Thời gian"
+
+Lý do số 1 khiến lượng đọc sách giảm: "Bị chiếm mất thời gian bởi điện thoại thông minh, v.v." chiếm 43.6%
+Lý do số 2: "Bận rộn công việc hoặc học tập nên không có thời gian đọc" chiếm 38.9%
+Cả hai lý do hàng đầu đều là vấn đề về thời gian
+
+Bị chiếm mất thời gian bởi điện thoại thông minh, v.v.
+[=========================] 43.6%
+
+Bận rộn công việc hoặc học tập
+[======================] 38.9%
+
+Khảo sát ý kiến công chúng về tiếng Nhật năm Reiwa 5 của Cơ quan Văn hóa
+
+・Bingo Sách
+
+4 / 11
+
+=== [Hình ảnh: 5_11.png] ===
+Ứng dụng Bingo Sách
+
+Bấm vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+← Ẩn danh sách
+
+# Việc "Quyết định đọc gì" cũng tốn thời gian
+
+Khoảng 180 cuốn / ngày
+
+Có khoảng 180 cuốn sách mới được phát hành mỗi ngày
+Không chỉ thiếu thời gian đọc, mà quy trình lựa chọn còn được chèn thêm một bước
+Kết quả là, mọi người bị chững lại ngay ở giai đoạn trước khi bắt đầu đọc
+
+METI Journal, Bộ Kinh tế, Thương mại và Công nghiệp Nhật Bản
+
+・Bingo Sách
+
+5 / 11
+
+=== [Hình ảnh: 6_11.png] ===
+Ứng dụng Bingo Sách
+
+Bấm vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+← Ẩn danh sách
+
+# "Người đọc chữ nghĩa, nhưng không đọc được sách"
+
+75.3%
+
+75.3% những người không đọc sách lại đọc các bài viết trên mạng xã hội hoặc internet hầu như mỗi ngày
+Vấn đề không nằm ở năng lực hay khao khát đọc, mà là không thể đảm bảo "khoảng thời gian trọn vẹn dành cho sách"
+Đối tượng hướng đến là người đi làm. Đây là nhóm muốn có thói quen đọc sách nhưng không thể duy trì
+
+Khảo sát ý kiến công chúng về tiếng Nhật năm Reiwa 5 của Cơ quan Văn hóa
+
+・Bingo Sách
+
+6 / 11
+
+=== [Hình ảnh: 7_11.png] ===
+Ứng dụng Bingo Sách
+
+Bấm vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+・Ẩn danh sách
+
+# Chỉ có sách thì thành "Nhiệm vụ", có thêm bánh kẹo thì thành "Giờ nghỉ ngơi"
+
+"Đọc sách" rất dễ rơi vào danh sách những việc phải làm
+Chỉ cần kèm thêm chút bánh kẹo, khoảng thời gian đó sẽ biến thành "thời gian thư giãn"
+Thứ mà chúng tôi muốn cung cấp không phải là bản thân cuốn sách, mà là khoảng thời gian để nghỉ ngơi nhanh
+
+Chỉ có sách
+Việc phải làm
+
+Sách + Bánh kẹo
+Nghỉ ngơi nhanh
+
+・Bingo Sách
+7 / 11
+
+=== [Hình ảnh: 8_11.png] ===
+Ứng dụng Bingo Sách
+
+Bấm vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+・Ẩn danh sách
+
+# Bản chất là thiết kế "Cách duy trì thói quen đọc sách"
+
+Điều mà ứng dụng này xử lý không phải là bản thân sự kết hợp giữa sách và bánh kẹo
+Mà là thiết kế về việc làm thế nào để chuyển hóa "thói quen muốn làm nhưng không duy trì được" thành một hình thức có thể tiếp tục
+Nếu đặt mục tiêu là sự hoàn thành, thì ngay thời điểm không hoàn thành sẽ trở thành lý do để từ bỏ
+Vì vậy, 25 ô vuông không được đặt ra như những thử thách phải lấp đầy, mà được đặt như kho lưu trữ các khoảng thời gian để lựa chọn
+
+Đặt sự hoàn thành làm mục tiêu
+
+- Việc lấp đầy trở thành nghĩa vụ
+- Không đạt được sẽ trực tiếp biến thành cảm giác tội lỗi
+- Không tiếp tục được nếu mất đi phần thưởng
+
+Chuẩn bị sẵn thời gian
+
+- Có thể chọn bất kỳ ô nào tùy theo tâm trạng ngày hôm đó
+- Không gây gánh nặng ngay cả khi còn những ô chưa được lấp đầy
+- Phần thưởng không phải là sự hoàn thành, mà chính là khoảng thời gian thư giãn
+
+## Bingo không phải là mục tiêu, mà là hình thức để sắp xếp các lựa chọn
+
+・Bingo Sách
+8 / 11
+
+=== [Hình ảnh: 9_11.png] ===
+Ứng dụng Bingo Sách
+
+Bấm vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+・Ẩn danh sách
+
+# Lắng nghe sở thích để tạo ra 25 ô vuông
+
+AI phỏng vấn sở thích và tâm trạng của người dùng
+Tạo ra thẻ bingo 5x5 từ kết quả đó
+Mỗi ô là sự kết hợp giữa "chủ đề đọc sách" và "thể loại bánh kẹo đi kèm"
+Không giới hạn hình thức sách (sách giấy / sách điện tử / thư viện)
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+| Một cuốn sách chọn vì thích bìa<br><br>Bánh nướng ẩm mềm | | Truyện ngắn đọc xong trong 30 phút<br><br>Snack mặn | | |
+| | Cổ điển tò mò từ lâu<br><br>Đồ uống ấm | | | Sách được ai đó giới thiệu<br><br>Bánh kẹo sô-cô-la |
+| | | | | |
+| Truyện lấy bối cảnh chuyến đi<br><br>Bánh kẹo hương trái cây | | | Sách đọc một chút trước khi ngủ<br><br>Bánh wagashi mềm | |
+| | | | | |
+
+・Bingo Sách
+9 / 11
+
+=== [Hình ảnh: 10_11.png] ===
+Ứng dụng Bingo Sách
+
+Bấm vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+・Ẩn danh sách
+
+# Thiết kế doanh thu bằng việc điều hướng khách hàng / Nhu cầu bánh kẹo chưa được kiểm chứng
+
+## Doanh thu - Mô hình điều hướng khách hàng (Sendokaku)
+
+- Đặt điểm chạm với cửa hàng vật lý ở phía bánh kẹo (không thực hiện giao hàng tận nơi)
+- Đã có sẵn các hình thức hợp tác điều hướng khách hàng từ ứng dụng đến cửa hàng vật lý
+  - Yondemy × Maruzen Junkudo Bookstore ・ Miraiya Shoten
+- Các hiệu sách và nhà bán lẻ đang cần phương thức thu hút khách hàng
+  - Năm tài chính 2025 có 102 cửa hàng mở mới so với 499 cửa hàng đóng cửa
+
+## Thách thức - Nhu cầu bánh kẹo chưa được kiểm chứng
+
+- Chưa xác nhận được ví dụ thương mại nào về việc "gắn kết trải nghiệm phi sách với mỗi 1 cuốn sách"
+- Bản thân sự tương hợp giữa việc đọc sách và ẩm thực được minh chứng bằng việc mô hình quán cà phê sách đã bám rễ vững chắc
+- Sau khi kiểm chứng ở quy mô nhỏ, sẽ dựa vào kết quả đó để quyết định mở rộng
+
+Thông cáo báo chí của Công ty Cổ phần Yondemy (Tháng 3 năm 2026) / Trung tâm Phát hành Sách Nhật Bản "Biểu đồ biến động số lượng hiệu sách theo năm"
+
+・Bingo Sách
+10 / 11
+
+=== [Hình ảnh: 11_11.png] ===
+Ứng dụng Bingo Sách
+
+Bấm vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+・Ẩn danh sách
+
+Cảm ơn quý vị đã lắng nghe
+
+11 / 11

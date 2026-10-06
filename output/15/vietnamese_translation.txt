@@ -1,0 +1,121 @@
+=== [Hình ảnh: 1.png] ===
+Datacom × Nhà cung cấp dự báo nhu cầu × Chính quyền địa phương: Ngăn chặn "tình trạng mua sắm hoảng loạn"
+Nhấn vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+‹ Ẩn danh sách
+Giải pháp hợp tác công - tư hướng tới chính quyền địa phương và ngành bán lẻ phân phối
+Datacom × Nhà cung cấp đặt hàng tự động dựa trên dự báo nhu cầu × Chính quyền địa phương ngăn chặn "tình trạng mua sắm hoảng loạn"
+Giải pháp cảnh báo sớm mua sắm quá mức và bình ổn cung cầu trong trường hợp khẩn cấp / thiên tai
+Trụ sở Kinh doanh BP - Mochizuki Yuichi
+Datacom Co., Ltd. All rights Reserved
+1/4
+1/6
+
+=== [Hình ảnh: 2_6.png] ===
+Datacom × Nhà cung cấp dự báo nhu cầu × Chính quyền địa phương: Ngăn chặn "tình trạng mua sắm hoảng loạn"
+Nhấn vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+‹ Ẩn danh sách
+【Vấn đề】"Tình trạng mua sắm hoảng loạn" xảy ra trong các trường hợp khẩn cấp / thiên tai và giới hạn của cửa hàng, cơ quan hành chính
+Phân tích hiện trạng
+Vấn đề 01: Cạn kiệt nhanh chóng kệ hàng và chuỗi hành vi mua gom
+Khi có cảnh báo động đất hoặc bão, tình trạng mua sắm hoảng loạn bộc phát do sự lo lắng đối với các nhu yếu phẩm (nước, gạo, pin, v.v.). Tồn kho tại cửa hàng cạn kiệt chỉ trong vài giờ, và sự bất an về việc thiếu hụt hàng hóa lại tiếp tục châm ngòi cho chuỗi hành vi mua gom tiếp theo.
+DAIRY
+EGGS
+BREAD
+MILK & EGGS
+Vấn đề 02: Hỗn loạn tại hiện trường, quấy rối khách hàng (Harassment) và kích thích đặt hàng quá mức
+Việc hạn chế mua hàng bằng tay và tình trạng thiếu hụt hàng hóa làm gia tăng sự hỗn loạn tại khu vực thanh toán (quầy thu ngân) cũng như tình trạng quấy rối khách hàng (Customer Harassment) đối với nhân viên. Sự sốt ruột tại bộ phận đặt hàng dẫn đến việc đặt hàng quá mức, gây áp lực lên hệ thống logistics.
+Vấn đề 03: Giới hạn của sự hỗ trợ công từ chính quyền địa phương
+Chỉ với kho dự trữ công cộng của chính quyền địa phương (dành cho các điểm sơ tán) thì không thể đáp ứng cho toàn bộ người dân.
+Thông tin về tồn kho thực tế và tình hình nhập hàng của các siêu thị tư nhân không được truyền đạt đến phía cơ quan hành chính, dẫn đến việc không thể đưa ra các thông báo tuyên truyền trấn an một cách chính xác.
+Datacom Co., Ltd. All rights Reserved
+2/6
+2/4
+
+=== [Hình ảnh: 3_6.png] ===
+Datacom × Nhà cung cấp dự báo nhu cầu × Chính quyền địa phương: Ngăn chặn "tình trạng mua sắm hoảng loạn"
+Nhấn vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+‹ Ẩn danh sách
+【Giải pháp】Quy trình liên kết chức năng cảnh báo sớm mua sắm quá mức và bình ổn cung cầu ((①~③: Dự báo & Phát hiện))
+Giai đoạn phát hiện sớm & dự báo
+1. Dự báo nhu cầu theo từng mặt hàng
+Tính toán các con số về "nhu cầu thực tế trong thời gian bình thường" và "nhu cầu giả tạo trong thời gian bất thường (mua gom)" thông qua việc phân tích dữ liệu quá khứ. Tính toán giá trị phù hợp có tính đến sự sụt giảm nhu cầu sau vài ngày dựa trên các mô hình suy giảm trong quá khứ.
+Datacom (Phân tích)
+Nhà cung cấp đặt hàng dựa trên dự báo nhu cầu
+2. Phát hiện tình trạng nhu cầu tăng vọt khi có thiên tai
+Phát hiện tức thời tốc độ tăng trưởng doanh số của các mặt hàng đối tượng (nước, gạo, pin, v.v.) từ dữ liệu Flash. Nắm bắt sớm các dấu hiệu quá nhiệt từ việc mua đồng thời các sản phẩm liên quan đến phòng chống thiên tai (mua kết hợp giỏ hàng).
+Datacom (Phân tích)
+3. Dự báo tồn kho theo từng cửa hàng
+Đối chiếu số lượng doanh thu còn lại của cửa hàng với tồn kho ở kho sau (backyard) và kế hoạch giao hàng của trung tâm, từ đó dự báo với độ chính xác cao "sau bao nhiêu giờ nữa hàng sẽ bán hết hoặc hết sạch".
+Nhà cung cấp đặt hàng dựa trên dự báo nhu cầu
+Datacom Co., Ltd. All rights Reserved
+3/6
+5/8
+
+=== [Hình ảnh: 4_6.png] ===
+Datacom × Nhà cung cấp dự báo nhu cầu × Chính quyền địa phương: Ngăn chặn "tình trạng mua sắm hoảng loạn"
+Nhấn vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+‹ Ẩn danh sách
+【Giải pháp】Quy trình liên kết chức năng cảnh báo sớm mua sắm quá mức và bình ổn cung cầu ((④~⑥: Phán đoán & Thực thi))
+Giai đoạn thực thi biện pháp & Bình ổn
+4. Phán đoán giới hạn bán hàng & Thông báo tại hiện trường
+Đánh giá các quy tắc khuyến nghị dựa trên mức độ quá nhiệt và dự báo thiếu hụt hàng hóa. Gửi "Cảnh báo khuyến nghị hạn chế" đến thiết bị nghiệp vụ của cửa hàng trưởng, sau đó nhanh chóng chuyển sang việc hạn chế tại cửa hàng sau khi đã xác nhận tại hiện trường. Ngăn chặn sự hỗn loạn.
+Datacom (Mới)
+5. Phân bổ tồn kho giữa các cửa hàng / giữa các trung tâm
+Gửi dữ liệu hiệu chỉnh đến phía hệ thống đặt hàng tự động, cập nhật thứ tự ưu tiên phân bổ tồn kho an toàn trong trung tâm. Thực hiện việc ưu tiên giao hàng cho các cửa hàng đang bị thiếu hụt nghiêm trọng hoặc chỉ đạo điều tiết tồn kho giữa các cửa hàng lân cận (vận chuyển ngang).
+Nhà cung cấp đặt hàng dựa trên dự báo nhu cầu
+6. Phát hành tình hình cung ứng cho người tiêu dùng
+Thông báo theo tuyến đường chính thống "Nhà bán lẻ → Chính quyền địa phương (Phòng Quản lý khủng hoảng, v.v.) → Người tiêu dùng".
+Đẩy (Push) các sự thật khách quan như "Đã xác nhận cửa hàng ○○ sẽ nhập ○○ chai vào ngày mai" thông qua LINE chính thức của chính quyền địa phương, v.v.
+Chính quyền địa phương
+Datacom Co., Ltd. All rights Reserved
+4/6
+5/5
+
+=== [Hình ảnh: 5_6.png] ===
+Datacom × Nhà cung cấp dự báo nhu cầu × Chính quyền địa phương: Ngăn chặn "tình trạng mua sắm hoảng loạn"
+Nhấn vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+‹ Ẩn danh sách
+【Tính thị trường & Khả năng thắng lợi】Thị trường chưa được khai thác chuyên biệt về "mua sắm hoảng loạn" và giá trị độc quyền xuyên suốt
+Cơ hội thị trường & Định vị
+Tham gia trước đón đầu vào vùng trống (White Space) × Xây dựng rào cản gia nhập thông tin qua hỗ trợ xuyên suốt bắt nguồn từ POS
+Trở thành hạ tầng xã hội không thể thiếu, hỗ trợ liên tục bất kể thời gian bình thường hay khẩn cấp, nhằm "làm dịu sớm tình trạng mua sắm hoảng loạn tại cửa hàng" – điều mà việc quản lý dự trữ hoặc trực quan hóa logistics hiện tại không thể ngăn chặn hoàn toàn.
+Môi trường cạnh tranh & Vùng trống
+Thị trường chuyên môn về "làm dịu mua sắm hoảng loạn" vẫn chưa được khai thác
+Giới hạn của sản phẩm hiện có: Hệ thống quản lý dự trữ của chính quyền địa phương, logistics doanh nghiệp hoặc hệ thống trực quan hóa vật tư còn rải rác.
+Thị trường chưa khai thác: Không có giải pháp nào trên thị trường định vị là "ngăn chặn mua sắm quá mức tại các cửa hàng tư nhân", tạo thành vùng trống hoàn toàn.
+Tính thị trường: Giành được vị thế người tiên phong (First-mover) trong đại dương xanh không có đối thủ cạnh tranh.
+Tính khả thi và Điểm mạnh độc quyền
+Hỗ trợ xuyên suốt từ phát hiện đến tuyên truyền hành chính
+Quy trình toàn diện: Dự báo nhu cầu và tồn kho → Phát hiện nhu cầu tăng vọt → Phán đoán hạn chế tại cửa hàng → Phân bổ điều tiết tồn kho → Tuyên truyền hành chính.
+Tính khó sao chép: Thiết lập nhu cầu cực1 kỳ cao và tính độc đáo thông qua sự dung hợp giữa bí quyết POS tại hiện trường bán lẻ và mạng lưới hợp tác công - tư.
+Yếu tố chiến thắng: Giải pháp vấn đề đầu cuối đến đầu cuối (End-to-end) mà các công cụ đơn chức năng không thể đạt được.
+Tính liên tục của kinh doanh và Khả năng thắng lợi
+Tính thường trực ứng phó ngay cả với tin đồn và thông tin sai lệch trong thời gian bình thường
+Rủi ro hàng ngày: Tình trạng mua gom do lan truyền trên SNS bùng phát thường xuyên không chỉ trong thiên tai mà cả thời bình.
+Giá trị duy trì cao: Lấp đầy khoảng trống giai đoạn đầu mà các tổ chức đơn lẻ không thể ứng phó, phát huy tính liên tục vững chắc như một hạ tầng xã hội vận hành quanh năm.
+Cơ sở doanh thu: Đăng ký dài hạn quanh năm (Subscription) / Hóa thu nhập cơ sở không kết thúc ở "giới hạn trong thời gian khẩn cấp".
+Datacom Co., Ltd. All rights Reserved
+5/6
+7/7
+
+=== [Hình ảnh: 6_6.png] ===
+Datacom × Nhà cung cấp dự báo nhu cầu × Chính quyền địa phương: Ngăn chặn "tình trạng mua sắm hoảng loạn"
+Nhấn vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+‹ Ẩn danh sách
+Cảm ơn quý vị đã lắng nghe
+Trụ sở Kinh doanh BP - Mochizuki Yuichi
+Datacom Co., Ltd. All rights Reserved
+6/6
+8/8

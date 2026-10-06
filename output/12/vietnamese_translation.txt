@@ -1,0 +1,73 @@
+=== [Hình ảnh: 1_3.png] ===
+Thử thách Lĩnh vực Mới (Next Field Challenge)
+Nhấp vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+‹ Ẩn danh sách
+Hội nghị toàn thể kỳ thứ 33 - Đợt đăng ký thứ nhất
+
+# Giới thiệu Chế độ tuyển dụng thử thách kỹ thuật "Next Field"
+
+Tiếp cận trực tiếp nguyên nhân cốt lõi dẫn đến việc nghỉ việc là "không thể tích lũy kinh nghiệm kỹ thuật mới", dưới hình thức tuyển dụng điều chuyển trong thời gian giới hạn
+
+Tóm tắt một câu của đề xuất
+Thành lập mới chế độ tuyển dụng nội bộ, cho phép nhân viên được thử thách biệt phái đến lĩnh vực kỹ thuật mong muốn trong thời gian từ 3 đến 6 tháng, diễn ra nửa năm một lần.
+
+Phân loại: 05 Tổ chức & Phát triển nhân lực / 06 Lan tỏa đến cả việc chuyển đổi mô hình doanh thu
+1 / 3
+
+=== [Hình ảnh: 2_3.png] ===
+Thử thách Lĩnh vực Mới (Next Field Challenge)
+Nhấp vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+‹ Ẩn danh sách
+# Thực trạng - Vấn đề và Nội dung đề xuất
+
+## 01 Thực trạng - Vấn đề
+- Thế mạnh của công ty chúng ta là các sản phẩm có tính chuyên môn cao, bám sát nghiệp vụ của khách hàng. Mức độ tự chủ lớn và khoảng cách gần gũi với khách hàng được nhân viên đánh giá rất cao.
+- Mặt khác, khi phân tích các trang web đánh giá bên ngoài (OpenWork / bài đăng của nhiều người trong khoảng 10 năm qua), chúng tôi nhận thấy có các ý kiến lặp đi lặp lại rằng: "Một khi đã đảm nhận lĩnh vực nào thì sẽ bị giữ lại ở đó trong thời gian dài, khó có thể tích lũy kinh nghiệm về công nghệ IT mới".
+- Ý kiến mang tính biểu tượng: "Về mặt IT, chúng tôi phải tham gia miên man vào nghiệp vụ đã được phân công từ trước, và không thể kỳ vọng vào các công nghệ IT mới".
+- Cảm giác chững lại về mặt phát triển kỹ thuật, đặc biệt đối với những nhân sự có động lực cao, sẽ dẫn đến sự bất an "liệu ở lại công ty này mình có phát triển được không", và có thể trở thành yếu tố thúc đẩy việc nghỉ việc.
+
+## 02 Nội dung đề xuất
+Thiết lập chế độ tuyển dụng nội bộ "Next Field" - nơi cho phép nhân viên thử thách trong lĩnh vực kỹ thuật mong muốn từ 3 đến 6 tháng, diễn ra nửa năm một lần, nhằm hỗ trợ nhân viên gặp gỡ những "công việc truyền cảm hứng" và thực hiện bước tiến tới những thử thách mới.
+- Đối tượng: Toàn thể nhân viên (dựa trên đơn đăng ký, với điều kiện được cấp trên trực tiếp phê duyệt).
+- Thời gian: Thời gian phân công giới hạn từ 3 đến 6 tháng. Vẫn giữ nguyên biên chế tại bộ phận cũ trong khi điều chuyển.
+- Lĩnh vực mục tiêu: Dự án kiểm chứng AI tạo sinh (Generative AI) - học máy (Machine Learning), các dự án phát triển của bộ phận kinh doanh khác, v.v.
+- Tần suất: Tuyển dụng định kỳ 2 lần/năm (tháng 4 và tháng 10).
+- Đánh giá: Phản ánh kinh nghiệm và thành quả sau quá trình thử thách vào đánh giá nhân sự thông thường.
+- Bàn giao công việc & Gánh nặng của cấp quản lý: Cùng lúc tìm kiếm các phương pháp giải quyết tình trạng gia tăng gánh nặng trong việc bàn giao và đối với cấp quản lý, chẳng hạn như sử dụng mẫu bàn giao hoặc đảm bảo nhân sự thay thế.
+
+Hội nghị toàn thể kỳ thứ 33 - Đề xuất động lực tăng trưởng
+2 / 3
+2
+
+=== [Hình ảnh: 3_3.png] ===
+Thử thách Lĩnh vực Mới (Next Field Challenge)
+Nhấp vào đây nếu hiển thị bị lỗi
+Chuyển sang chế độ toàn màn hình
+Đóng
+‹ Ẩn danh sách
+# Hiệu quả kỳ vọng và Hình ảnh hiện thực hóa
+
+## 03 Hiệu quả kỳ vọng
+- Có thể tiếp cận trực tiếp với nguyên nhân nghỉ việc được nhắc đến nhiều nhất qua phân tích đánh giá: "không thể tích lũy công nghệ IT mới", thông qua phương pháp trực tiếp là điều chuyển công tác.
+- Cảm giác phát triển của nhân viên trẻ và trung cấp được nâng cao, dẫn đến việc cải thiện mức độ gắn kết (engagement) và giảm tỷ lệ nghỉ việc.
+- Tạo ra sự giao lưu kỹ thuật vượt qua ranh giới các bộ phận, đồng thời góp phần làm giảm tình trạng "phụ thuộc cá nhân" - nơi chỉ có một nhân viên cụ thể mới có thể đưa ra phán quyết.
+- Ngày càng nhiều nhân viên tiếp xúc với các lĩnh vực mới như AI tạo sinh, lan tỏa sang sự tăng trưởng của doanh nghiệp như cải thiện tốc độ phát triển dịch vụ mới.
+
+## 04 Hình ảnh hiện thực hóa
+
+### Phase 1 (Năm đầu tiên)
+Triển khai thử nghiệm quy mô khoảng 1 bộ phận / 5 nhân sự dưới dạng thí điểm. Đồng thời kiểm chứng các biện pháp giảm tải công tác bàn giao và gánh nặng cho cấp quản lý.
+
+### Phase 2 (Nửa cuối năm thứ nhất)
+Đo lường hiệu quả mức độ gắn kết và tỷ lệ giữ chân nhân sự của những người tham gia, sau đó mở rộng các bộ phận và số lượng người tham gia.
+
+### Phase 3 (Từ năm thứ 2 trở đi)
+Hóa thân chế độ thành một lựa chọn chính thức trong chế độ đánh giá nhân sự và lộ trình nghề nghiệp (career path), đồng thời triển khai trên toàn công ty.
+
+Hội nghị toàn thể kỳ thứ 33 - Đề xuất động lực tăng trưởng
+3 / 3
+3

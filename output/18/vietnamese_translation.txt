@@ -1,0 +1,299 @@
+=== [Hình ảnh: 1_11.png] ===
+Cơ sở trồng mộc nhĩ tươi kết hợp cửa hàng chọn lọc trực thuộc & Tổ chức Thử thách Bảo mật Nội bộ
+
+Nếu hiển thị bị lỗi, hãy nhấn vào đây
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+‹ Ẩn danh mục
+
+Trồng trọt, Bán hàng, Rèn luyện
+
+Cơ sở trồng mộc nhĩ tươi kết hợp cửa hàng chọn lọc trực thuộc
+— Mô hình tích hợp sản xuất và bán lẻ xuất phát từ Sendai
+
+01 Dự án mới & Thâm nhập ngành khác
+09 Phát triển bền vững & Đóng góp cho cộng đồng
++05 Phát triển tổ chức & Nhân sự
+
+Trồng trọt (Cơ sở trồng trọt)
+Bán hàng & Rèn luyện (Cửa hàng trực thuộc)
+
+1 / 11
+
+=== [Hình ảnh: 2.png] ===
+Cơ sở trồng mộc nhĩ tươi kết hợp cửa hàng chọn lọc trực thuộc & Tổ chức Thử thách Bảo mật Nội bộ
+
+Nếu hiển thị bị lỗi, hãy nhấn vào đây
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+‹ Ẩn danh mục
+
+PROPOSAL
+Nội dung đề xuất
+
+02 / 11
+
+Tự mình trồng, tự mình bán.
+Kết nối cả hai hoạt động đó bằng dữ liệu.
+
+Tại các cơ sở hạ tầng chưa được sử dụng hiệu quả (cửa hàng trống, trường học bỏ hoang, nhà trống) ở Sendai và vùng Tohoku, chúng tôi sẽ thành lập cơ sở trồng mộc nhĩ tươi được quản lý bằng IoT, đồng thời khai trương cửa hàng chọn lọc trực thuộc tại thành phố Sendai chuyên kinh doanh các sản phẩm đặc sản tỉnh Miyagi, sản phẩm từ các đối tác trên toàn quốc và mộc nhĩ do công ty tự trồng. Cửa hàng sẽ được vận hành bởi toàn thể nhân viên theo ca luân phiên, đóng vai trò là nơi đào tạo thực tế về kinh doanh thực phẩm tươi sống. Bằng cách liên kết dữ liệu trồng trọt và dữ liệu cửa hàng, chúng tôi xây dựng mô hình ứng dụng dữ liệu xuyên suốt từ sản xuất đến bán hàng.
+
+Trồng trọt (Cơ sở trồng trọt)
+Thâm nhập thị trường mộc nhĩ nội địa đang phụ thuộc vào nhập khẩu bằng IoT và phân tích dữ liệu.
+
+Bán hàng & Rèn luyện (Cửa hàng trực thuộc)
+Đảm bảo kênh phân phối ban đầu từ nội bộ, đồng thời nâng cao mức độ thấu hiểu của toàn thể nhân viên đối với ngành bán lẻ.
+
+Toàn thể nhân viên luân phiên túc trực quầy thu ngân, tiếp khách và quản lý hàng tồn kho
+
+2 / 11
+
+=== [Hình ảnh: 3_11.png] ===
+Cơ sở trồng mộc nhĩ tươi kết hợp cửa hàng chọn lọc trực thuộc & Tổ chức Thử thách Bảo mật Nội bộ
+
+Nếu hiển thị bị lỗi, hãy nhấn vào đây
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+‹ Ẩn danh mục
+
+STEP 1 Thực trạng & Thách thức
+Cơ hội đã có nhưng thiếu đầu ra và trải nghiệm thực tế tại hiện trường
+
+03 / 11
+
+01
+Thị trường phụ thuộc vào nhập khẩu và các cơ sở bỏ trống
+Mộc nhĩ tươi trong nước có độ phụ thuộc vào nhập khẩu cực kỳ cao, tỷ lệ tự túc trong nước chỉ chiếm khoảng 3~5%. Trong khi đó, tại khu vực Sendai và Tohoku có rất nhiều cơ sở chưa sử dụng như cửa hàng trống, trường học bỏ hoang và nhà trống.
+
+02
+Chưa xác định được kênh phân phối
+Dù có lập cơ sở trồng trọt, quy mô sản xuất ở giai đoạn 1 (1.000 giá thể nấm) rất dễ xảy ra sự thiếu đồng bộ với nhu cầu từ các kênh bán buôn hiện có, khiến việc đảm bảo kênh phân phối trở thành một thách thức.
+
+03
+Tiếp cận ngành bán lẻ mà không hiểu rõ thực tế hiện trường
+Dù xử lý các hệ thống dành cho ngành bán lẻ, nhưng có rất nhiều nhân viên dù ở bộ phận nào cũng chưa từng trải nghiệm vận hành cửa hàng thực tế, dẫn đến hạn chế về độ chi tiết và chính xác trong các đề xuất và đàm phán kinh doanh.
+
+Tỷ lệ tự túc mộc nhĩ nội địa
+3-5%
+
+Nội địa: Khoảng 4%
+Nhập khẩu: Trên 95%
+
+Tỷ lệ tự túc trong nước (quy đổi dạng tươi - ước tính). Lượng tiêu thụ các loại mộc nhĩ trong nước là 25.000 tấn/năm, quy mô tương đương với nấm Nameko.
+
+3 / 11
+
+=== [Hình ảnh: 4_11.png] ===
+Cơ sở trồng mộc nhĩ tươi kết hợp cửa hàng chọn lọc trực thuộc & Tổ chức Thử thách Bảo mật Nội bộ
+
+Nếu hiển thị bị lỗi, hãy nhấn vào đây
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+‹ Ẩn danh mục
+
+STEP 2 Nội dung đề xuất
+3 trụ cột kết nối hoạt động trồng trọt và cửa hàng
+
+04 / 11
+
+01
+Cơ sở trồng trọt
+Thuê các cơ sở chưa sử dụng, mở cơ sở trồng mộc nhĩ tươi được trang bị cảm biến IoT (nhiệt độ, độ ẩm, CO2).
+
+02
+Cửa hàng chọn lọc trực thuộc
+Mở cửa hàng kinh doanh các sản phẩm đặc sản tỉnh Miyagi và sản phẩm từ các đối tác trên toàn quốc. Thể chế hóa chương trình đào tạo luân phiên trong đó toàn thể nhân viên tham gia vận hành theo ca.
+
+03
+Liên kết dữ liệu
+Phân tích xuyên suốt dữ liệu trồng trọt và dữ liệu cửa hàng. Khi việc thu hoạch ổn định, tiến hành bán thử nghiệm tại cửa hàng, đối với thực phẩm tươi sống
+
+4 / 11
+
+=== [Hình ảnh: 5_11.png] ===
+Cơ sở trồng mộc nhĩ tươi kết hợp cửa hàng chọn lọc trực thuộc & Tổ chức Thử thách Bảo mật Nội bộ
+
+Nếu hiển thị bị lỗi, hãy nhấn vào đây
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+‹ Ẩn danh mục
+
+STEP 2 Nội dung đề xuất
+3 trụ cột kết nối hoạt động trồng trọt và cửa hàng
+
+04 / 11
+
+01
+Cơ sở trồng trọt
+Thuê các cơ sở chưa sử dụng, mở cơ sở trồng mộc nhĩ tươi được trang bị cảm biến IoT (nhiệt độ, độ ẩm, CO2).
+
+02
+Cửa hàng chọn lọc trực thuộc
+Mở cửa hàng kinh doanh các sản phẩm đặc sản tỉnh Miyagi và sản phẩm từ các đối tác trên toàn quốc. Thể chế hóa chương trình đào tạo luân phiên trong đó toàn thể nhân viên tham gia vận hành theo ca.
+
+03
+Liên kết dữ liệu
+Phân tích xuyên suốt dữ liệu trồng trọt và dữ liệu cửa hàng. Khi việc thu hoạch ổn định, tiến hành bán thử nghiệm tại cửa hàng, đối với thực phẩm tươi sống
+
+5 / 11
+
+=== [Hình ảnh: 6_11.png] ===
+Cơ sở trồng mộc nhĩ tươi kết hợp cửa hàng chọn lọc trực thuộc & Tổ chức Thử thách Bảo mật Nội bộ
+
+Nếu hiển thị bị lỗi, hãy nhấn vào đây
+Chuyển sang chế độ toàn màn hình
+Đóng
+
+‹ Ẩn danh mục
+
+STEP 2 Nội dung đề xuất
+3 trụ cột kết nối hoạt động trồng trọt và cửa hàng
+
+04 / 11
+
+01
+Cơ sở trồng trọt
+Thuê các cơ sở chưa sử dụng, mở cơ sở trồng mộc nhĩ tươi được trang bị cảm biến IoT (nhiệt độ, độ ẩm, CO2).
+
+02
+Cửa hàng chọn lọc trực thuộc
+Mở cửa hàng kinh doanh các sản phẩm đặc sản tỉnh Miyagi và sản phẩm từ các đối tác trên toàn quốc. Thể chế hóa chương trình đào tạo luân phiên trong đó toàn thể nhân viên tham gia vận hành theo ca.
+
+03
+Liên kết dữ liệu
+Phân tích xuyên suốt dữ liệu trồng trọt và dữ liệu cửa hàng. Khi việc thu hoạch ổn định, tiến hành bán thử nghiệm tại cửa hàng, đối với thực phẩm tươi sống
+
+6 / 11
+
+=== [Hình ảnh: 7_11.png] ===
+Cơ sở trồng mộc nhĩ tươi kết hợp cửa hàng chọn lọc trực thuộc & Tổ chức Thử thách Bảo mật Nội bộ
+
+- Ẩn danh mục
+
+STEP 5 Tính cụ thể hướng tới hiện thực hóa - Bổ sung Thẩm định vòng 2
+
+# Ai thực hiện, sử dụng công cụ gì và tiến hành như thế nào
+
+07 / 11
+
+WHO Ai thực hiện
+
+## 1 nhân sự chuyên trách + Đội ngũ kiêm nhiệm
+
+### Trưởng dự án (1 nhân sự chuyên trách)
+Lựa chọn mặt bằng, xin cấp phép, quản lý thu chi. Được tuyển chọn thông qua đợt tuyển nội bộ cho vị trí phụ trách dự án mới.
+
+### Vận hành trồng trọt (2 nhân sự kiêm nhiệm)
+Quản lý môi trường hàng ngày & thu hoạch. Nhận hướng dẫn kỹ thuật trồng từ các doanh nghiệp cung cấp giá thể nấm bên ngoài.
+
+### Vận hành cửa hàng (Luân phiên toàn công ty)
+Chỉ tuyển dụng cố định 1 cửa hàng trưởng. Các vị trí khác do toàn thể nhân viên luân phiên đảm nhận.
+
+=== [Hình ảnh: 8_11.png] ===
+Cơ sở trồng mộc nhĩ tươi kết hợp cửa hàng chọn lọc trực thuộc & Tổ chức Thử thách Bảo mật Nội bộ
+
+- Ẩn danh mục
+
+REFERENCE Hình ảnh doanh thu
+
+# Ước tính sơ bộ trong trường hợp bắt đầu từ 1.000 giá thể nấm
+
+08 / 11
+
+Tất cả các số liệu đều là hình ảnh ước tính sơ bộ, không phải là kế hoạch kinh doanh đã được chốt. Việc kiểm chứng chi tiết sẽ được thực hiện sau khi đưa vào kinh doanh dự án mới.
+
+Quy mô cơ sở tiêu chuẩn
+
+# 1.000 giá thể nấm
+
+Bắt đầu với quy mô nhỏ hơn ví dụ điển hình trước đó (công ty in ấn - 5.600 giá thể).
+
+Lượng thu hoạch dự kiến
+
+# Khoảng 1,2 tấn / năm
+
+Tính toán dựa trên 1 giá thể nấm cho 1~1,5kg × thu hoạch 1 lần/năm. Có thể tăng lên nếu thu hoạch được nhiều lần.
+
+Doanh thu dự kiến (Cơ sở trồng trọt)
+
+# 300 - 600 triệu yên / năm
+
+Tính toán dựa trên giá bán trực tiếp 250~300 yên/100g × sản lượng thu hoạch.
+
+## Biến động doanh thu dự kiến (triệu yên/năm - Hình ảnh minh họa)
+
+350
+Giai đoạn 1
+Khởi động song song
+
+1.000
+Giai đoạn 2
+Liên kết dữ liệu & Bán thử nghiệm
+
+3.000
+Giai đoạn 3
+Mở rộng & Phát triển khu vực
+
+STORE Vị trí của cửa hàng trực thuộc
+Cửa hàng không phải là trụ cột doanh thu, mà mục đích chính là nâng cao năng lực tổ chức. Vị trí này được định hướng dùng để trang trải một phần chi phí vận hành thông qua việc bán các sản phẩm đặc sản tỉnh Miyagi, sản phẩm của đối tác và bán thử nghiệm mộc nhĩ.
+
+=== [Hình ảnh: 9_11.png] ===
+Cơ sở trồng mộc nhĩ tươi kết hợp cửa hàng chọn lọc trực thuộc & Tổ chức Thử thách Bảo mật Nội bộ
+
+- Ẩn danh mục
+
+REFERENCE Chi phí ban đầu
+
+# Ước tính chi phí ban đầu
+
+09 / 11
+
+| Phân loại | Chi phí dự kiến | Chú thích |
+| :--- | :--- | :--- |
+| ① Cơ sở trồng trọt (mộc nhĩ) | Khoảng 100~400 triệu yên | Tiền thuê mặt bằng dự kiến từ 0 đến 30.000 yên/tháng, nhưng chi phí cải tạo như kéo đường cấp thoát nước, nguồn điện sẽ phát sinh riêng. So sánh, cân nhắc giữa trường học bỏ hoang và nhà trống, đồng thời xem xét tận dụng các nguồn hỗ trợ như Khoản trợ cấp tổng hợp phát triển vốn xã hội (chi phí cải tạo trong giới hạn 1/2 - tối đa 25 triệu yên). |
+| ② Cửa hàng trực thuộc (cửa hàng chọn lọc) | Khoảng 420~880 triệu yên | Giả định quy mô khoảng 10 tsubo (tổng chi phí gồm mặt bằng, nội thất, thiết bị, POS, nhập hàng ban đầu, chi phí quảng cáo). Hệ thống POS và quản lý hàng tồn kho do công ty tự phát triển nên có thể tiết kiệm chi phí, có thể cắt giảm thêm bằng cách tận dụng mặt bằng có sẵn trang thiết bị (Inuki). |
+| Tổng chi phí dự kiến | **Khoảng 520~1.280 triệu yên** | Ước tính sơ bộ. Việc kiểm chứng chi tiết sẽ được thực hiện sau khi đưa vào kinh doanh dự án mới. |
+
+COST DOWN Dư địa cắt giảm chi phí: Miễn phí hoặc thuê giá rẻ các cơ sở chưa sử dụng, tận dụng mặt bằng có sẵn trang thiết bị (Inuki), tự phát triển hệ thống POS và quản lý hàng tồn kho, tận dụng các khoản trợ cấp ― 4 yếu tố này giúp tối ưu chi phí về mức cận dưới.
+
+=== [Hình ảnh: 10_11.png] ===
+Cơ sở trồng mộc nhĩ tươi kết hợp cửa hàng chọn lọc trực thuộc & Tổ chức Thử thách Bảo mật Nội bộ
+
+- Ẩn danh mục
+
+REFERENCE Sức hấp dẫn của mộc nhĩ tươi - Bổ sung Thẩm định vòng 2
+
+# Hương vị, dinh dưỡng và cách chế biến
+
+10 / 11
+
+Hầu hết mộc nhĩ bày bán trong siêu thị là hàng khô, rất nhiều người tiêu dùng chưa từng ăn mộc nhĩ tươi. Bản thân việc là "hàng tươi" đã tạo sự khác biệt, và đây là mặt hàng có thể bán kèm với các đề xuất cách chế biến. Nếu là cửa hàng trực thuộc, công ty có thể trực tiếp mang đến cho khách hàng các hoạt động dùng thử, đề xuất công thức nấu ăn và giải thích về độ tươi ngon.
+
+[Hình ảnh: Mọc lên liên tiếp từ giá thể nấm. Thu hoạch thủ công, có thể thu hoạch vài lần từ 1 giá thể]  
+[Hình ảnh: Món trứng xào kinh điển. Chỉ cần chần qua nước sôi rồi xào là làm nổi bật độ giòn dai]
+
+### Kết cấu (Độ giòn dai)
+Độ giòn sần sật đặc trưng chỉ có ở hàng tươi. Khác với độ dai cứng của mộc nhĩ khô, đây là sức hấp dẫn độc quyền của mộc nhĩ tươi. Có thể thưởng thức như món sashimi sau khi luộc sơ (chấm với nước tương mù tạt hoặc nước tương gừng). Thịt dày, dễ cắn đứt, ít bị teo lại khi nấu nên vẫn giữ được kết cấu ngon miệng. Gần như không mùi không vị và không bị hăng, nên dễ dàng kết hợp với bất kỳ phong cách nêm nếm nào từ Nhật, Âu đến Trung Hoa.
+
+### Dinh dưỡng
+Giàu vitamin D và canxi giúp xương và răng chắc khỏe. Cũng chứa sắt và chất xơ, khi kết hợp với các thực phẩm giàu chất sắt như thịt lợn sẽ làm tăng tỷ lệ hấp thụ. Hàm lượng chất xơ thuộc hàng top trong các loại nấm, giúp điều hòa môi trường đường ruột, đồng thời ít calo nên có thể dùng làm thực phẩm độn (tăng thể tích món ăn).
+
+### Cách chế biến kinh điển
+Phù hợp với nhiều món ăn như trứng xào / món ngâm giấm, món trộn / ajillo (món ngâm dầu tỏi) / súp, lẩu, v.v. Cách sơ chế vô cùng đơn giản: chỉ cần chần qua nước sôi từ 30 giây đến 1 phút. Điểm hấp dẫn của hàng tươi là không cần thời gian ngâm nở như hàng khô, có thể cắt và dùng ngay rất tiện lợi. Có thể bảo quản trong tủ lạnh khoảng 1 tuần, phần chưa dùng hết có thể đem cấp đông.
+
+=== [Hình ảnh: 11_11.png] ===
+Cơ sở trồng mộc nhĩ tươi kết hợp cửa hàng chọn lọc trực thuộc & Tổ chức Thử thách Bảo mật Nội bộ
+
+- Ẩn danh mục
+
+Không phải "Làm xong là kết thúc" cũng không phải "Bán xong là chấm hết",
+mà kết nối trồng trọt, bán hàng và rèn luyện trong một cơ chế duy nhất.
+
+Bằng việc cơ sở trồng trọt và cửa hàng trực thuộc bù đắp những điểm yếu cho nhau, một động lực tăng trưởng mới mang phong cách DataCom - tích hợp sản xuất và bán lẻ - sẽ được hình thành.
+
+[Hình ảnh: Khai trương cửa hàng chọn lọc trực thuộc tại thành phố Sendai]

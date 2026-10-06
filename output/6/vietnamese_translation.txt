@@ -1,0 +1,239 @@
+=== [Hình ảnh: 1_10.png] ===
+Đề xuất nền tảng "Khám phá dữ liệu & Lưu thông chéo" các đặc sản siêu thị toàn quốc
+Bấm vào đây nếu giao diện bị lỗi hiển thị
+Chuyển sang chế độ toàn màn hình
+Đóng
+Ẩn danh sách
+Hội nghị toàn thể kỳ thứ 33 - Đề xuất động lực tăng trưởng
+Nền tảng "Khám phá dữ liệu & Lưu thông chéo" 
+Đặc sản siêu thị toàn quốc
+Tầm nhìn trục cốt lõi của Datacom: Kết nối tài sản nội bộ với "ý tưởng mới".
+Chuyển đổi từ CNTT phòng thủ (SaaS) sang "CNTT tấn công" trực tiếp tạo ra doanh thu.
+Bảo vệ các siêu thị địa phương, kết nối văn hóa ẩm thực vùng miền.
+1/10
+
+=== [Hình ảnh: 2_10.png] ===
+Đề xuất nền tảng "Khám phá dữ liệu & Lưu thông chéo" các đặc sản siêu thị toàn quốc
+Bấm vào đây nếu giao diện bị lỗi hiển thị
+Chuyển sang chế độ toàn màn hình
+Đóng
+Ẩn danh sách
+01. Ba sự chia cắt nằm trong "khoảng trống" của thị trường 1,27 nghìn tỷ yên
+Cấu trúc thách thức
+Hạn chế của việc chỉ bày bán các sản phẩm thương hiệu quốc gia (NB) giống hệt các cửa hàng khác trên những kệ hàng được tối ưu hóa.
+Khó khăn của siêu thị địa phương
+【Phí phạm tài nguyên báu vật】
+Có các sản phẩm nhãn hàng riêng (PB) và đặc sản nổi tiếng được ưa chuộng tuyệt đối tại địa phương, nhưng thị trường thu hẹp do dân số giảm.
+Không có bí quyết hay kênh phân phối để đưa ra toàn quốc.
+Sự sốt ruột của siêu thị khu vực đô thị
+【Thoát khỏi sự đồng 
+hóa】
+Kiệt sức vì cạnh tranh giá cả với các thương hiệu quốc gia lớn.
+Muốn thu hút khách hàng bằng "những sản phẩm đặc sắc thực sự của địa phương mà các cửa hàng khác không có", nhưng không có năng lực tự khai thác hoặc nguồn mua hàng.
+Góc nhìn của người tiêu dùng
+【Phá vỡ sự nhàm chán】
+"Quanh đi quẩn lại cũng chỉ toàn sản phẩm quen thuộc, thật nhàm chán.
+Dù vật giá leo thang, tôi vẫn muốn có 'chút gì đó khác biệt so với thường ngày' trong bữa ăn tại nhà."
+Cần một cầu nối BtoB để kết nối "lô hàng nhỏ, đặc sản địa phương" mà các nhà bán buôn lớn không thể gom hết.
+2/10
+
+=== [Hình ảnh: 3_10.png] ===
+Đề xuất nền tảng "Khám phá dữ liệu & Lưu thông chéo" các đặc sản siêu thị toàn quốc
+Bấm vào đây nếu giao diện bị lỗi hiển thị
+Chuyển sang chế độ toàn màn hình
+Đóng
+Ẩn danh sách
+02. Giải pháp: Ứng dụng mặt sau của hệ thống hiện có "Fresh02"
+Mô hình kinh doanh
+Không cần phát triển hệ thống lớn mới. Chỉ cần kết nối "d3" và "Fresh02" hiện có là có thể tạo ra thị trường.
+① Khám phá
+Tận dụng hệ thống phân tích
+Tự động trích xuất và chấm điểm các sản phẩm địa phương thực sự được ưa chuộng có "khả năng bán chạy ở các khu vực khác" từ dữ liệu của 50 triệu người.
++
+② Lưu thông
+Tận dụng Fresh02
+Mẹo "đảo ngược" người đặt hàng và người nhận hàng: Biến quy trình thông thường là cửa hàng đặt hàng trên Fresh02 thành luồng ngược chiều, trong đó siêu thị địa phương "đề xuất (cung cấp)" và khu vực đô thị "phê duyệt (đặt hàng)".
+Khả năng thích ứng với hàng trọng lượng không cố định và hàng theo giá thị trường: Điểm mạnh của Fresh02 là "khả năng ứng phó với giá thị trường" cực kỳ phù hợp với các sản phẩm sơ chế và đặc sản địa phương có sản lượng không ổn định.
+* Datacom không chịu rủi ro về hàng tồn kho, khâu logistics và thanh toán sẽ tận dụng hệ thống bán buôn hiện có.
+3/10
+
+=== [Hình ảnh: 4_10.png] ===
+Đề xuất nền tảng "Khám phá dữ liệu & Lưu thông chéo" các đặc sản siêu thị toàn quốc
+Bấm vào đây nếu giao diện bị lỗi hiển thị
+Chuyển sang chế độ toàn màn hình
+Đóng
+Ẩn danh sách
+03. "Thiết kế trải nghiệm" nơi dữ liệu kích thích hành động
+Thiết kế trải nghiệm
+Hướng tới một nền tảng mà bất kỳ ai cũng phải cuồng nhiệt, thay vì chỉ là một hệ thống đặt/nhận hàng khô khan.
+【Dành cho người mua hàng (Buyer)】 Trải nghiệm năng lực thẩm định được "trực quan hóa"
+Sản phẩm do bạn thu mua lọt vào Top 10 doanh thu.
+Năng lực khai thác và thẩm định của người mua được trực quan hóa thành điểm số. Việc sản phẩm mình mua lọt vào bảng xếp hạng toàn quốc sẽ tạo ra niềm tự hào và cảm giác thành tựu "chính tay tôi đã tìm ra nó".
+Giá giới hạn dành cho người mua đến trước (Cảm giác ai đến trước được phục vụ trước)
+Áp dụng giá mua đặc biệt theo thứ tự ưu tiên cho các đặc sản địa phương đang hot. Cảm giác cấp bách "Nếu không mua ngay sẽ bị người mua khác nẫng tay trên" thúc đẩy hành động tức thì.
+【Dành cho người tiêu dùng】 Liên kết người tiêu dùng
+Hoàn thành bộ sưu tập đặc sản - Bingo
+Hướng tới việc mở rộng sang các dịch vụ dành cho người tiêu dùng trong tương lai, chẳng hạn như phát hành "Bingo đặc sản vùng Tohoku tháng này".
+Động lực mua sản phẩm mới một cách vui vẻ.
+4/10
+
+=== [Hình ảnh: 5_10.png] ===
+Đề xuất nền tảng "Khám phá dữ liệu & Lưu thông chéo" các đặc sản siêu thị toàn quốc
+Bấm vào đây nếu giao diện bị lỗi hiển thị
+Chuyển sang chế độ toàn màn hình
+Đóng
+Ẩn danh sách
+04. "3 điểm đứt gãy" được giải quyết đồng thời bởi nền tảng này
+Năng lực giải quyết vấn đề
+Giải quyết 3 điểm đứt gãy mang tính cấu trúc trong chuỗi phân phối thực phẩm chỉ bằng 1 nền tảng (PF).
+Đứt gãy ① Sản phẩm "muốn bán" ở địa phương và "muốn mua" ở đô thị không thể gặp nhau
+Các đặc sản lô nhỏ không được nhà bán buôn lớn xử lý sẽ không lọt vào tầm mắt của người mua ở đô thị. Nền tảng này sẽ kết nối trực tiếp cả hai bên, tạo ra đầu ra toàn quốc cho những đặc sản đang bị chôn vùi.
+Đứt gãy ② Việc đặt hàng không dựa trên dữ liệu tiếp tục gây ra thất thoát lãng phí
+Việc đặt hàng dựa trên kinh nghiệm và trực giác dẫn đến hàng tồn kho dư thừa và lãng phí. Đạt được số lượng hợp lý thông qua việc đặt hàng đề xuất dựa trên dữ liệu mua hàng, bảo vệ lợi nhuận của siêu thị địa phương.
+Đứt gãy ③ Người tiêu dùng không có cơ hội tiếp cận "đặc sản địa phương đích thực"
+Bị lu mờ bởi các thương hiệu quốc gia lớn, văn hóa ẩm thực địa phương đích thực không đến được với người tiêu dùng. Biến người tiêu dùng thành người hâm mộ lâu dài của đặc sản thông qua thiết kế trải nghiệm, bảo vệ văn hóa ẩm thực vùng miền.
+5/10
+
+=== [Hình ảnh: 6_10.png] ===
+Đề xuất nền tảng "Khám phá dữ liệu & Lưu thông chéo" các đặc sản siêu thị toàn quốc
+Bấm vào đây nếu giao diện bị lỗi hiển thị
+Chuyển sang chế độ toàn màn hình
+Đóng
+Ẩn danh sách
+05. Lợi thế cạnh tranh (Đừng bán dữ liệu, hãy dịch chuyển hàng hóa)
+So sánh cạnh tranh
+"Cách chiến thắng độc đáo" để vượt qua các đối thủ mạnh hiện tại.
+| Phân loại so sánh | Nhà bán buôn hiện tại / TMĐT đặc sản trực tiếp | Nhà cung cấp bán dữ liệu | Đề xuất này (Công ty thương mại dữ liệu) |
+| :--- | :--- | :--- | :--- |
+| Mục tiêu | Lô lớn / Trọng tâm là BtoC | Dành cho nhà sản xuất lớn | **Chuyên biệt lô nhỏ / BtoB** |
+| Giá trị cung cấp cho nhà bán lẻ | Chỉ cung cấp mạng lưới logistics | Chỉ cung cấp báo cáo phân tích (Phòng thủ) | **Tạo ra doanh thu mới (Tấn công)** |
+| Rào cản gia nhập của công ty | Không có | Lợi nhuận bán hàng một lần | **Khóa chặt mạng lưới 200 nhà bán lẻ** |
+Vì "d3" và "Fresh02" trở nên không thể thiếu làm lối vào cho cơ chế này,
+nên việc thay thế (hủy hợp đồng) sang các công cụ của công ty khác trên thực tế trở thành bất khả thi.
+6/10
+
+=== [Hình ảnh: 7_10.png] ===
+Đề xuất nền tảng "Khám phá dữ liệu & Lưu thông chéo" các đặc sản siêu thị toàn quốc
+Bấm vào đây nếu giao diện bị lỗi hiển thị Chuyển sang chế độ toàn màn hình Đóng
+
+Ẩn danh sách
+
+06. Mô hình doanh thu và lộ trình trung - dài hạn
+Kiếm tiền (Monetize)
+
+Bắt đầu bằng "Mô hình SaaS" vững chắc để kiểm chứng, và cuối cùng thay đổi quy mô bằng "Mô hình phí hoa hồng lưu thông".
+
+Phase 1 (Năm thứ 1)
+Khởi động nhỏ (Small Start)
+Thực hiện PoC với các khách hàng hiện tại. Giảm thiểu việc cải tiến hệ thống, kiểm chứng "liệu có bán được thực sự không" bằng cách khớp lệnh thủ công.
+
+30.000 ~ 50.000 yên/tháng cho mỗi công ty
+Số SM tham gia: 5 ~ 10 công ty
+Doanh thu tháng: 150.000 ~ 500.000 yên
+
+Phase 2 (Năm 2 ~ 3)
+Mở rộng toàn quốc & Hệ thống hóa
+Vận hành chính thức bảng điều khiển (dashboard) dành cho người mua. Định hình như một SaaS dạng mạng lưới.
+
+50.000 ~ 100.000 yên/tháng cho mỗi công ty
+Số SM tham gia: 30 ~ 50 công ty
+Doanh thu tháng: 1,5 ~ 5 triệu yên
+
+Phase 3 (Từ năm thứ 3 trở đi)
+Tiến hóa thành công ty thương mại dữ liệu
+Chuyển từ mô hình phí sử dụng hàng tháng sang mô hình "phí hoa hồng dựa trên tổng giá trị giao dịch (GMV)". Mở rộng sang cả các trạm dừng chân ven đường (Michi-no-Eki) và thương mại điện tử.
+
+Số SM tham gia: Trên 100 công ty
+Loại liên kết GMV (Tỷ lệ doanh thu - Take Rate)
+
+Điểm mạnh lớn nhất là có thể khởi đầu bằng việc "đề xuất bổ sung" cho khách hàng hiện tại, giúp chi phí bán hàng để khai thác khách hàng mới bằng 0.
+7 / 10
+
+---
+
+=== [Hình ảnh: 8_10.png] ===
+Đề xuất nền tảng "Khám phá dữ liệu & Lưu thông chéo" các đặc sản siêu thị toàn quốc
+Bấm vào đây nếu giao diện bị lỗi hiển thị Chuyển sang chế độ toàn màn hình Đóng
+
+Ẩn danh sách
+
+07. Cơ chế thực hiện (Ai tiến hành, sử dụng cái gì)
+Cơ chế và tài sản
+
+Bảo vệ hệ thống hiện tại dưới dạng "gói giải pháp (package)", đồng thời nhanh chóng triển khai dưới dạng kinh doanh mới.
+
+WHO: Cơ chế tổ chức (Bắt đầu tối thiểu 3 người)
+- Phụ trách kinh doanh
+  Đề xuất và mời gọi thử nghiệm đối với khách hàng hiện tại
+- Phụ trách phân tích
+  Trích xuất và chấm điểm các ứng viên đặc sản bán chạy
+- Phụ trách hệ thống
+  Thiết kế liên kết với hệ thống hiện có
+
+WHAT: Tài sản tận dụng (Đầu tư bổ sung bằng 0)
+- Cơ sở hạ tầng phân tích dữ liệu mua hàng hiện có
+  Không cần xây dựng mới môi trường thu thập dữ liệu từ con số không
+- Mạng lưới đối tác (Hơn 200 công ty)
+  Việc thăm dò bản thử nghiệm chỉ cần thực hiện bằng đề xuất bổ sung cho khách hàng hiện tại
+- Hệ thống đặt/nhận hàng hiện có (Fresh02)
+  Tận dụng nguyên trạng giao diện (UI) và quy trình mà người mua đã quen sử dụng
+
+8 / 10
+
+---
+
+=== [Hình ảnh: 9_10.png] ===
+Đề xuất nền tảng "Khám phá dữ liệu & Lưu thông chéo" các đặc sản siêu thị toàn quốc
+Bấm vào đây nếu giao diện bị lỗi hiển thị Chuyển sang chế độ toàn màn hình Đóng
+
+Ẩn danh sách
+
+08. Kế hoạch hành động và biện pháp đối phó rủi ro
+6 tháng đầu tiên
+
+Kế hoạch PoC 6 tháng đầu tiên (24 tuần)
+
+- W1-W8
+  Chuẩn bị & Kiểm chứng dữ liệu
+  Xác định khách hàng hiện tại tham gia thử nghiệm. Trích xuất đặc sản bằng d3.
+- W9-W16
+  Khớp lệnh thủ công & Bán thử nghiệm
+  Đề xuất "thủ công" cho người mua mà không cần xây dựng hệ thống. Thử nghiệm tại cửa hàng thực tế.
+- W17-W24
+  Đo lường hiệu quả & Phán đoán duy trì
+  Đo lường hiệu quả bằng dữ liệu POS. Đưa ra quyết định hệ thống hóa chính thức.
+
+【Ngưỡng rút lui】 Nhanh chóng đưa ra quyết định rút lui nếu việc bán thử nghiệm không vượt quá lợi nhuận kỳ vọng.
+
+Rủi ro giả định và biện pháp đối phó
+
+- Rủi ro ① Thiếu năng lực cung ứng ở địa phương
+  【Đối phó】 Bắt buộc cài đặt "giới hạn cung ứng hàng tháng" trên hệ thống. Giai đoạn đầu thu hẹp thành "hộifair giới hạn tại một vài cửa hàng".
+- Rủi ro ② Xung đột phản ánh với nhà bán buôn hiện tại
+  【Đối phó】 Áp dụng mô hình hợp tác trong đó công ty chúng tôi chỉ dừng lại ở việc cung cấp "thông tin", còn việc dịch chuyển hàng hóa và thanh toán sẽ thông qua nhà bán buôn hiện tại.
+- Rủi ro ③ Rủi ro hàng tồn đọng / hạn sử dụng
+  【Đối phó】 Cơ bản áp dụng mô hình đặt hàng trước (hoàn toàn theo đơn đặt hàng) và chỉ gửi hàng sau khi việc thu mua đã được chốt. Thời gian PoC giới hạn ở hình thức hội chợ số lượng ít, ngắn hạn để kìm hãm rủi ro hàng tồn kho về 0.
+
+9 / 10
+
+---
+
+=== [Hình ảnh: 10_10.png] ===
+Đề xuất nền tảng "Khám phá dữ liệu & Lưu thông chéo" các đặc sản siêu thị toàn quốc
+Bấm vào đây nếu giao diện bị lỗi hiển thị Chuyển sang chế độ toàn màn hình Đóng
+
+Ẩn danh sách
+
+"Thế giới nơi các siêu thị trên khắp Nhật Bản 
+trở thành một khu phố mua sắm lớn."
+
+Siêu thị địa phương
+Có thể kiếm ngoại tệ bằng đặc sản của chính mình và duy trì hoạt động kinh doanh.
+
+Người tiêu dùng
+Có thể bắt gặp văn hóa ẩm thực chưa từng biết đến trên toàn quốc ngay tại siêu thị gần nhà.
+
+Tạo ra cơ chế không chỉ "Datacom kiếm được tiền" mà còn "Lịch vực địa phương hồi sinh".
+Đây chính là động lực tăng trưởng thực sự dẫn dắt 10 năm tiếp theo.
+
+10 / 10
